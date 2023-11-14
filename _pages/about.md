@@ -73,7 +73,6 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 
 **Yuanjun Chai** and YeahMobi.inc
 
-<!-- [**Project**](https://tanzu.vmware.com/content/blog/vmware-greenplum-excels-as-genai-llm-data-platform) \| [![](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social&label=Code+Stars)](https://github.com/h2oai/h2ogpt) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We propose a new AIGC platform for marketing content generation, named Kreado AI. Kreado AI is a hybrid worldwide AIGC platform that combines the strengths of so many AIGC functions:
   - Virtual Avatar (talking-face generation, speech synthesis, LLM)
   - AI model (text-to-image, LoRA, control net)
