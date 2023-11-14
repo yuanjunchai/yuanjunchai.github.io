@@ -139,4 +139,4 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 # 🏃‍♂️ Hobbies
 My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
 
-Besides, I have my lovely cat🐱: <img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/cat02.jpg' alt="sym02" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
+Besides, I have my lovely cat🐱: <img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/WechatIMG52.jpg' alt="sym02" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
