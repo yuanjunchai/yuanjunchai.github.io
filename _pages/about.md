@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Here is Yuanjun Chai (Y-wen Joon, Ch-eye), aka Allen. I work at [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.3em;'>, working on AI for cloud native group.
+Hi! Here is Yuanjun Chai (Y-wen Joon, Ch-eye), aka Allen. I work at [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.3em;'>, working on AI for cloud native.
 
 
 I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I had the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from Chinese Academcy of Sciences <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/) and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Embodied AI.
 
 
-Not only diving into research, I am also willing to empower new technologies into products to **make people's lives better**. Thus, I co-founded a start-up [INGREM inc](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** using computer with precise eyes controling platform. Previously, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a senior machine learning scientist (P8 expert). I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including AI Video Creation, AI model, custom clone service, and etc. Then, I am currently a senior machine learning engineer at VMware AI Lab <img src='./images/vmware.png' style='width: 2.3em;'>, working on RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM.
+Not only diving into research, I am also willing to empower new technologies into products to **make people's lives better**. Thus, I co-founded a start-up [INGREM inc](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** using computer with precise eyes controling platform. Previously, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a senior machine learning scientist (P8 expert). I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including AI Video Creation, AI model, custom clone service, and etc. Then, I am currently a **senior machine learning engineer** at VMware AI Lab <img src='./images/vmware.png' style='width: 2.3em;'>, working on RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM.
 
 ### Research Interests:
 
@@ -64,64 +64,80 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🖥️ Innovation Bridge
+# 🖥️ Innovational Products
 ## 🧑‍🎨 AIGC (Generative Model)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/kreado03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/kreado03.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Kreado AI: AIGC Platform for Marketing Content Generation**](https://kreadoai.com/)
 
-YeahMobi.inc
+**Yuanjun Chai** and YeahMobi.inc
 
-<!-- [**Project**](https://www.jasongt.com/projectpages/IKC.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We propose a new AIGC platform for marketing content generation, named Kreado AI. Kreado AI is a hybrid worldwide AIGC platform that combines the strengths of Virtual Avatar (talking-face generation, voice clone, LLM), AI model (text-to-image, LoRA, control net), many AI tools and AI property. Here I mainly focus on the Virtual Avatar and AI model algorithms improvement, as well as collaborate with system architect for entire architecture improvement. Users radiate to Europe, Africa, Southeast Asia, and the Americas, with quarterly revenue exceeding US$1 million.
+<!-- [**Project**](https://tanzu.vmware.com/content/blog/vmware-greenplum-excels-as-genai-llm-data-platform) \| [![](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social&label=Code+Stars)](https://github.com/h2oai/h2ogpt) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We propose a new AIGC platform for marketing content generation, named Kreado AI. Kreado AI is a hybrid worldwide AIGC platform that combines the strengths of so many AIGC functions:
+  - Virtual Avatar (talking-face generation, speech synthesis, LLM)
+  - AI model (text-to-image, LoRA, control net)
+  - Custom clone serivces (image-to-video, voice clone)
+  - Many AI tools and AI property
+- Here I mainly focus on the Virtual Avatar and AI model algorithms improvement, as well as collaborate with system architect for entire architecture improvement. Users radiate to Europe, Africa, Southeast Asia, and the Americas, with quarterly revenue exceeding US$1 million.
 </div>
 </div>
 
 ## 🧙‍♂️ RAG-based LLM
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/h2oGPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/h2oGPT.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**h2o GPT: AIGC Platform for Marketing Content Generation**](https://gpt.h2o.ai/)
+[**h2o GPT: AIGC Platform for Marketing Content Generation**](https://tanzu.vmware.com/content/blog/vmware-greenplum-excels-as-genai-llm-data-platform)
 
-VMware.inc
+**Yuanjun Chai** and VMware.inc
 
-<!-- [**Project**](https://www.jasongt.com/projectpages/IKC.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We propose a new AIGC platform for marketing content generation, named Kreado AI. Kreado AI is a hybrid worldwide AIGC platform that combines the strengths of Virtual Avatar (talking-face generation, voice clone, LLM), AI model (text-to-image, LoRA, control net), many AI tools and AI property. Here I mainly focus on the Virtual Avatar and AI model algorithms improvement, as well as collaborate with system architect for entire architecture improvement. Users radiate to Europe, Africa, Southeast Asia, and the Americas, with quarterly revenue exceeding US$1 million.
+[**Project**](https://gpt.h2o.ai/) \| [![](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social&label=Code+Stars)](https://github.com/h2oai/h2ogpt) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We develop a new RAG-based LLM platform for AI cloud native and private AI. The platform could leverage diverse LLMs with extended dataset such as pdf, code base, dataset and internet links. Here I am responsible for all RAG-based LLM algorithm development, as well as industrial deployment. Functionality includes: 
+  - RAG-based LLM framework
+  - QA and chat with extended dataset
+  - Content summarization
+  - Content generation
+- Next step we would take research about Multi-modal LLM for AI cloud native.
 </div>
 </div>
 
 
 ## 👨‍⚕️ AI healthcare & Charity
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/kreado02.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/eyes02.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Kreado AI: AIGC Platform for Marketing Content Generation**](https://kreadoai.com/)
+[**Face Control: Fine Facial Control Platform for High-paraplegia Disabled People**](https://www.bilibili.com/video/BV1u34y1d7g3/?p=1&share_medium=iphone&share_plat=ios&share_session_id=FDFAD6F5-CCF8-47D9-B33E-DE9CB343384E&share_source=WEIXIN&share_tag=s_i&timestamp=1639402219&unique_k=OkjAetO)
 
-YeahMobi.inc
+**Yuanjun Chai**, Ingrem.inc
 
-<!-- [**Project**](https://www.jasongt.com/projectpages/IKC.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We propose a new AIGC platform for marketing content generation, named Kreado AI. Kreado AI is a hybrid worldwide AIGC platform that combines the strengths of Virtual Avatar (talking-face generation, voice clone, LLM), AI model (text-to-image, LoRA, control net), many AI tools and AI property. Here I mainly focus on the Virtual Avatar and AI model algorithms improvement, as well as collaborate with system architect for entire architecture improvement. Users radiate to Europe, Africa, Southeast Asia, and the Americas, with quarterly revenue exceeding US$1 million.
+- I co-founded a start-up Ingrem, with other hardcore guys. We aim to build up a entire bed for living and playing of high-paraplegia disabled people. Here, I am responsible for the development of the software -- eyes&facial control platform. Based on computer vision algorithms, the system could help the diabled use their face details (such as eyebrow, eye, mouth, etc.) to control mouse and keyborad elaborately. Thus, our platform and our bed entirely enhance the accessibility of normal computer usage and social networks. We do believe tech
+ make people's lives better, and we do it!
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04* Obtain a fully-funded PhD return offer from Li Ka Shing Faculty of Medicine, University of Hong Kong.
+- *2019.06* Outstanding Undergraduate Student Award. 
+- *2019.06* Outstanding Undergraduate Thesis Award (10/5000), Topic: Image Inpainting Based on Deep Learning. 
+- *2018.08* Cambridge Summer AI Academic Programme Excellent Student – All A+ of Artificial Intelligence Classes.
+- *2017.05* Golden Medal of National Computer Design Contest -- Birdsong Recognition with Machine Learning.
 
 # 🎓 Educations
 - *2015.08 - 2019.06*, Undergraduate, Xidian University. 
-- *2018.08 - 2018.09*, Summer school, University of Cambridge. 
+- *2018.08 - 2018.09*, Summer School, University of Cambridge. 
 - *2012.08 - 2015.06*, High School Affiliated to Northwestern University
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 🧑‍💻 Professional Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - now*, Senior Machine Learning Engineer, VMware AI Lab
+- *2022.07 - 2023.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
+- *2019.05 - 2022.07*, Research Assistant in Chinese Academy of Sciences, Tsinghua University and HKU (get return PhD offer).
+
 
 # 🏃‍♂️ Hobbies
-My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Games🏅.
+My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
 
-Besides, I have my lovely cat🐱 -- DotDot: <img src='images/500x300.png' alt="sym" width="30%">
+Besides, I have my lovely cat🐱: <img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/cat02.jpg' alt="sym02" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
