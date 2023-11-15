@@ -131,7 +131,7 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 🧑‍💻 Professional Experience
-- *2023.07 - now*, Senior Machine Learning Engineer, VMware AI Lab
+- *2023.07 - now*, Machine Learning Engineer, VMware AI Lab
 - *2022.07 - 2023.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
 - *2019.05 - 2022.07*, Research Assistant in Chinese Academy of Sciences, Tsinghua University and HKU (get return PhD offer).
 
