@@ -92,10 +92,10 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 
 [**Project**](https://gpt.h2o.ai/) \| [![](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social&label=Code+Stars)](https://github.com/h2oai/h2ogpt) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We develop a new RAG-based LLM platform for AI cloud native and private AI. The platform could leverage diverse LLMs with extended dataset such as pdf, code base, dataset and internet links. Here I am responsible for all RAG-based LLM algorithm development, as well as industrial deployment. Functionality includes: 
-  - RAG-based LLM framework
-  - QA and chat with extended dataset
+  - QA and chat with extended dataset extraction
   - Content summarization
   - Content generation
+  - AI agent
 - Next step we would take research about Multi-modal LLM for AI cloud native.
 </div>
 </div>
