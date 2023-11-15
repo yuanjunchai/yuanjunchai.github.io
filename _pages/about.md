@@ -27,7 +27,7 @@ Not only diving into research, I am also willing to empower new technologies int
 
 ### Research Interests:
 
-- **AIGC (AI Generative Content)**: RAG-based LLM, Multi-modal LLM, text-to-image, text-to-video
+- **Generative AI**: RAG-based LLM, Multi-modal LLM, text-to-image, text-to-video
 - **Virtual Avatar**: 2D&3D talking face generation, voice clone, custom character
 - **AI in healthcare**: medical image, medical LLM
 - **Computer Vision**: low-level vision, high-level vision
