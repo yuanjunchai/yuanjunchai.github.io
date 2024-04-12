@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.3em;'>, working on LLM and Multi-LLM.
+Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM.
 
 
 I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I had the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from Chinese Academcy of Sciences <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/) and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Embodied AI.
 
 
 Not only diving into research, I am also willing to empower new technologies into products to **make people's lives better**. Thus, I co-founded a start-up [INGREM inc](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** using computer with precise eyes controling platform. Previously, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a senior machine learning scientist (P8 expert). I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including AI Video Creation, AI model, custom clone service, and etc. Then, I am currently a **machine learning engineer** at iFlyTek AI Lab 
-<img src='./images/SparkLLM.png' style='width: 2.3em;'>, working on SparkLLM, RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM.
+<img src='./images/SparkLLM.png' style='width: 2.7em;'>, working on SparkLLM, RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM.
 <!-- <img src='./images/vmware.png' style='width: 2.3em;'>, working on SparkLLM, RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM. -->
 
 ### Research Interests:
@@ -44,7 +44,7 @@ Above things are my research interests. If you are interested in any of these to
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 Thrilled to join VMware AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
+- *2024.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
 - *2023.04*: &nbsp;🔥🔥 Our AIGC platform [Kreado AI](https://kreadoai.com/) has released to all over the world！
 - *2022.04*: &nbsp;👏👏 Glad to obtain fully-funded PhD offer from University of HongKong (HKU)!
 - *2021.09*: &nbsp;🥰🥰 Our eyes control platform has helped high-paraplegia disabled people more than 300!
@@ -144,4 +144,4 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 # 🏃‍♂️ Hobbies
 My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
 
-Besides, I have my lovely cat🐱: <img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/cat04.jpg' alt="sym02" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
+Besides, I have my lovely cat🐱: <img src='images/cat04.jpg' alt="sym02" width="25%"> <img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
