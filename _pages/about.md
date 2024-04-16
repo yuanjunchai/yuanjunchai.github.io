@@ -138,8 +138,8 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 - *2019.05 - 2022.07*, Research Assistant in Chinese Academy of Sciences, Tsinghua University and HKU (get return PhD offer). -->
 # 🧑‍💻 Professional Experience
 - *2023.07 - now*, Machine Learning Engineer, VMware AI Lab
-- *2022.07 - 2024.01*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
-- *2019.05 - 2022.07*, Research Assistant in Chinese Academy of Sciences, Tsinghua University and HKU (get return PhD offer).
+- *2022.07 - 2023.06*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
+- *2019.05 - 2022.07*, Research Assistant in CAS, Tsinghua University and HKU (get return PhD offer).
 
 # 🏃‍♂️ Hobbies
 My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
