@@ -37,7 +37,7 @@ Not only diving into research, I am also willing to empower new technologies int
 
 Above things are my research interests. If you are interested in any of these topics and would like to academic collaborations, please feel free to contact me at [yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com).
 
-By the way, with strong research&industry experience and handling multiple A100 GPUs, I decide to **seek for a research postion to publish papers for a PhD position**. Although pursuing academics is a tough journey, but I could overcome it with responsibility, active feedback, and all great supervisors&collaborators. If you are interested in my research and applications, please directly contact me.
+By the way, with strong research and industry experience, I decide to **seek for a PhD position**. Although pursuing academics is a tough journey, but I could overcome it with responsibility, active feedback, and all great supervisors&collaborators. Now I am holding multiple A100 GPUs. If you are interested in my research and applications, please directly contact me.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -125,7 +125,7 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 
 # 🎓 Educations
 - *2015.08 - 2019.06*, Undergraduate, Xidian University. 
-- *2018.08 - 2018.09*, Summer School, University of Cambridge. 
+- *2018.08 - 2018.09*, Summer School, University of Cambridge (with Prof. Pietro Lio). 
 - *2012.08 - 2015.06*, High School Affiliated to Northwestern University
 
 <!-- # 💬 Invited Talks
@@ -144,4 +144,5 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 # 🏃‍♂️ Hobbies
 My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
 
-Besides, I have my lovely cat🐱: <img src='images/cat04.jpg' alt="sym02" width="25%"> <img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
+Besides, I have my lovely cat🐱: 
+<img src='images/cat04.jpg' alt="sym02" width="25%"> <img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
