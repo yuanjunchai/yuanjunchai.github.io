@@ -37,7 +37,8 @@ Not only diving into research, I am also willing to empower new technologies int
 
 Above things are my research interests. If you are interested in any of these topics and would like to academic collaborations, please feel free to contact me at [yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com).
 
-By the way, with strong research and industry experience, I decide to **seek for a PhD position**. Although pursuing academics is a tough journey, but I could overcome it with responsibility, active feedback, and all great supervisors&collaborators. Now I am holding multiple A100 GPUs. If you are interested in my research and applications, please directly contact me.
+<!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
+By the way, I am so glad to collaborate with young researchers. Although pursuing academics is a tough journey, but we could overcome it together with responsibility, active feedback, and all great supervisors&collaborators. Now I am holding multiple A100 GPUs. If you are interested in my research and applications, please directly contact me.
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
