@@ -19,15 +19,15 @@ redirect_from:
 
 Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. 
 
-**I will go into UW-seattle as graduate student this Fall!**
+**I will go into UW-seattle as graduate student this Fall!**<br />
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
 
-I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about image inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/) and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Embodied AI.
+I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about image inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/) and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Embodied AI.<br />
 
 
 Not only diving into research, I am also willing to empower new technologies into products to **make people's lives better**. Thus, I co-founded a start-up [INGREM inc](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** using computer with precise eyes controling platform. Previously, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a senior machine learning scientist (P8 expert). I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including AI Video Creation, AI model, custom clone service, and etc. Then, I am currently a machine learning engineer at VMware AI Lab 
 <!-- <img src='./images/SparkLLM.png' style='width: 2.7em;'>, working on SparkLLM, RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM. -->
-<img src='./images/vmware.png' style='width: 2.3em;'>, working on LLM agent, RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM.
+<img src='./images/vmware.png' style='width: 2.3em;'>, working on LLM agent, RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM.<br />
 
 ### Research Interests:
 
@@ -37,10 +37,8 @@ Not only diving into research, I am also willing to empower new technologies int
 - **Computer Vision**: low-level vision, high-level vision
 - **Embodied AI**: sim2real, multi-model perception
 
-Above things are my research interests. If you are interested in any of these topics and would like to academic collaborations, please feel free to contact me at [yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com).
-
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
-By the way, I am so glad to collaborate with young researchers. Although pursuing academics is a tough journey, but we could overcome it together with responsibility, active feedback, and all great supervisors&collaborators. Now I am holding multiple A100 GPUs. If you are interested in my research and applications, please directly contact me.
+By the way, I am so glad to collaborate with young researchers. Although pursuing academics is a tough journey, but we could overcome it together. Now I am holding multiple GPUs. If you are interested in my research, please directly contact me[yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com).
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
