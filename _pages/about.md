@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. **I will go into UW-seattle this Fall!**
+Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. 
+
+**I will go into UW-seattle this Fall!**
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
 
 I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/) and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Embodied AI.
@@ -29,9 +31,9 @@ Not only diving into research, I am also willing to empower new technologies int
 
 ### Research Interests:
 
-- **Generative AI**: LLM, RAG-based LLM, Multi-modal LLM, text-to-image, text-to-video
+- **Generative AI**: LLM in education, RAG-based LLM, Multi-modal LLM, text-to-image, text-to-video
 - **Virtual Avatar**: 2D&3D talking face generation, voice generation, custom character
-- **AI in healthcare**: medical image, medical LLM
+- **AI in healthcare**: medical image, medical VLM
 - **Computer Vision**: low-level vision, high-level vision
 - **Embodied AI**: sim2real, multi-model perception
 
@@ -148,4 +150,4 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
 
 Besides, I have my lovely cat🐱: 
-<img src='images/cat08.jpg' alt="sym02" width="25%"> <img src='images/cat06.JPG' alt="sym01" width="25%"> <img src='images/cat09.JPG' alt="sym03" width="40%">
+<img src='images/cat08.jpg' alt="sym02" width="25%"> <img src='images/cat06.JPG' alt="sym01" width="25%"> <img src='images/cat09.JPG' alt="sym03" width="35%">
