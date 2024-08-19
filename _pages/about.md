@@ -27,7 +27,7 @@ I graduated with highest honors from Xidian University, earning a bachelor's deg
 
 Not only diving into research, I am also willing to empower new technologies into products to **make people's lives better**. Thus, I co-founded a start-up [INGREM inc](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** using computer with precise eyes controling platform. Previously, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a senior machine learning scientist (P8 expert). I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including AI Video Creation, AI model, custom clone service, and etc. Then, I am currently a machine learning engineer at VMware AI Lab 
 <!-- <img src='./images/SparkLLM.png' style='width: 2.7em;'>, working on SparkLLM, RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM. -->
-<img src='./images/vmware.png' style='width: 2.3em;'>, working on LLM agent, RAG-based LLM (Retrieval Augmented Generation) and Multi-modal LLM.<br />
+<img src='./images/vmware.png' style='width: 2.3em;'>, working on LLM agent, RAG-based LLM and Multi-modal LLM.<br />
 
 ### Research Interests:
 
