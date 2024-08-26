@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM.  -->
+Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM.
 
 **I will go into UW-seattle as graduate student this Fall!**<br /> -->
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
