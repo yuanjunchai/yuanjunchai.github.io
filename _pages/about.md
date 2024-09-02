@@ -38,7 +38,7 @@ Then, I am currently a machine learning engineer at VMware AI Lab <img src='./im
 - **Embodied AI**: sim2real, multi-model perception
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
-By the way, I am so glad to collaborate with young researchers. Although pursuing academics is a tough journey, but we could overcome it together. Now I am holding multiple GPUs. If you are interested in my research, please directly contact me[yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com).
+By the way, I am so glad to collaborate with young researchers. Although pursuing academics is a tough journey, but we could overcome it together. Now I am holding multiple GPUs. If you are interested in my research, please directly contact me: [yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com).
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
