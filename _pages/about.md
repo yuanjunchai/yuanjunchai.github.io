@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM.
+Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. Now I am a MSEE student in UW. Previously, I work over 3 yrs at IT companies like [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM.
 
-**I will go into UW-seattle as graduate student this Fall!**<br /> 
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
 
 I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about image inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/) and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Embodied AI.<br />
@@ -27,7 +26,8 @@ I graduated with highest honors from Xidian University, earning a bachelor's deg
 
 Not only diving into research, I am also willing to empower new technologies into products to **make people's lives better**. Thus, I co-founded a start-up [INGREM inc](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** using computer with precise eyes controling platform. Previously, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a senior machine learning scientist (P8 expert). I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including AI Video Creation, AI model, custom clone service, and etc. 
 <!-- <img src='./images/SparkLLM.png' style='width: 2.7em;'>, working on SparkLLM, RAG, agent and Multi-modal LLM. -->
-Then, I am currently a machine learning engineer at VMware AI Lab <img src='./images/vmware.png' style='width: 2.3em;'>, working on LLM agent, RAG and VLM.<br />
+<!-- Then, I am currently a machine learning engineer at VMware AI Lab <img src='./images/vmware.png' style='width: 2.3em;'>, working on LLM agent, RAG and VLM.<br /> -->
+Then, I decide to go back to UW to continue my research journey.
 
 ### Research Interests:
 
@@ -46,11 +46,11 @@ By the way, I am so glad to collaborate with young researchers. Although pursuin
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
-- *2023.07*: &nbsp;🎉🎉 Thrilled to join VMware as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
-- *2023.01*: &nbsp;🔥🔥 Our AIGC platform [Kreado AI](https://kreadoai.com/) has released to all over the world！
-- *2022.04*: &nbsp;👏👏 Glad to obtain fully-funded PhD offer from University of HongKong (HKU)!
-- *2021.09*: &nbsp;🥰🥰 Our eyes control platform has helped high-paraplegia disabled people more than 300!
-- *2021.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
+- *2022.07*: &nbsp;🎉🎉 Thrilled to join VMware as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
+- *2022.06*: &nbsp;🔥🔥 Our AIGC platform [Kreado AI](https://kreadoai.com/) has released to all over the world！
+- *2021.04*: &nbsp;👏👏 Glad to obtain fully-funded PhD offer from University of HongKong (HKU)!
+- *2021.01*: &nbsp;🥰🥰 Our eyes control platform has helped high-paraplegia disabled people more than 300!
+- *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
 
 # 📝 Publications 
 ## 👁️ Computer Vision
@@ -119,7 +119,7 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 </div>
 
 # 🎖 Honors and Awards
-- *2022.04* Obtain a fully-funded PhD return offer from Li Ka Shing Faculty of Medicine, University of Hong Kong.
+- *2021.04* Obtain a fully-funded PhD return offer from Li Ka Shing Faculty of Medicine, University of Hong Kong.
 - *2019.06* Outstanding Undergraduate Student Award. 
 - *2019.06* Outstanding Undergraduate Thesis Award (10/5000), Topic: Image Inpainting Based on Deep Learning. 
 - *2018.08* Cambridge Summer AI Academic Programme Excellent Student – All A+ of Artificial Intelligence Classes.
@@ -139,14 +139,14 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 - *2022.07 - 2023.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
 - *2019.05 - 2022.07*, Research Assistant in Chinese Academy of Sciences, Tsinghua University and HKU (get return PhD offer). -->
 # 🧑‍💻 Professional Experience
-- *2023.07 - now*, Machine Learning Engineer, VMware AI Lab
+- *2022.07 - 2024.09, Senior Machine Learning Engineer, VMware AI Lab
 <!-- - *2023 - now*, Machine Learning Engineer, iFlyTek -->
-- *2022.07 - 2023.06*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
+- *2021.07 - 2022.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
 - *2019.05 - 2022.07*, Research Assistant in CAS, Tsinghua University and HKU (get return PhD offer).
 
 # 🏃‍♂️ Hobbies
 My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
 
-Besides, I have my lovely cat🐱: 
+Besides, I have my lovely cats🐱: 
 <br />
 <img src='images/cat06.JPG' alt="sym02" width="25%"> <img src='images/cat10.jpg' alt="sym01" width="25%"> <img src='images/cat08.jpg' alt="sym03" width="25%">
