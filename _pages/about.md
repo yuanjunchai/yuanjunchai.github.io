@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. Now I am a MSEE student in UW. Previously, I work over 3 yrs at IT companies like [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM.
+Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. Now I am a MSEE student in UW. 
+
+Previously, I work over 3 yrs at IT companies like [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM.
 
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
 
@@ -139,7 +141,7 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 - *2022.07 - 2023.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
 - *2019.05 - 2022.07*, Research Assistant in Chinese Academy of Sciences, Tsinghua University and HKU (get return PhD offer). -->
 # 🧑‍💻 Professional Experience
-- *2022.07 - 2024.09, Senior Machine Learning Engineer, VMware AI Lab
+- *2022.07 - 2024.09*, Senior Machine Learning Engineer, VMware AI Lab
 <!-- - *2023 - now*, Machine Learning Engineer, iFlyTek -->
 - *2021.07 - 2022.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
 - *2019.05 - 2022.07*, Research Assistant in CAS, Tsinghua University and HKU (get return PhD offer).
@@ -149,4 +151,4 @@ My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Mot
 
 Besides, I have my lovely cats🐱: 
 <br />
-<img src='images/cat06.JPG' alt="sym02" width="25%"> <img src='images/cat10.jpg' alt="sym01" width="25%"> <img src='images/cat08.jpg' alt="sym03" width="25%">
+<img src='images/cat06.JPG' alt="sym02" width="25%"> <img src='images/cat10.jpg' alt="sym01" width="26%"> <img src='images/cat08.jpg' alt="sym03" width="25%">
