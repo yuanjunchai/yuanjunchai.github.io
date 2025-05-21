@@ -22,8 +22,9 @@ Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. 
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
 
 
-I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about image inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/) and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Embodied AI.<br />
+I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about image inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/)  from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Embodied AI.<br />
 
+<!-- and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) -->
 
 Previously, I worked a senior MLE over 3 yrs at IT companies, like [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.3em;'>, focusing on LLM and Multi-LLM. Before this, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a senior machine learning scientist. I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including AI Video Creation, AI model, custom clone service, and etc. 
 
@@ -36,11 +37,12 @@ Not only diving into research, I am also willing to empower new technologies int
 
 ### Research Interests:
 
-- **Generative AI**: LLM in education, RAG-based LLM, Multi-modal LLM, text-to-image, text-to-video
-- **Virtual Avatar**: 2D&3D talking face generation, voice generation, custom character
-- **AI in healthcare**: medical image, medical VLM
-- **Computer Vision**: low-level vision, high-level vision
-- **Embodied AI**: sim2real, multi-model perception
+<!-- - **Generative AI**: LLM in education, LLM diversity, Multi-modal LLM, text-to-image, text-to-video -->
+<!-- - **Virtual Avatar**: 2D&3D talking face generation, voice generation, custom character -->
+<!-- - **AI in healthcare**: medical image, medical VLM -->
+- **Computer Vision**: low&high-level vision, text-to-image, Vision-Language Model (VLM)
+- **NLP**: Language Model, LLM diversity
+- **Embodiment**: sim2real, diffusion policy, Vision-Language Action Model (VLA)
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
 By the way, I am so glad to collaborate with young researchers. Although pursuing academics is a tough journey, but we could overcome it together. Now I am holding multiple GPUs. If you are interested in my research, please directly contact me: [yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com).
@@ -51,14 +53,28 @@ By the way, I am so glad to collaborate with young researchers. Although pursuin
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
-- *2024.09*: &nbsp;🥰🥰 Go to UW! I am so excited to start my research new journey in UW!
-- *2022.07*: &nbsp;🎉🎉 Thrilled to join VMware as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
+- *2025.04*: &nbsp;🔥🔥 Our Arxiv paper [**DiffPure-VLM**](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding has been released!
+- *2024.09*: &nbsp;🥰🥰 Go to University of Washington! I am so excited to start my research new journey in UW!
+- *2022.07*: &nbsp;🎉🎉 Thrilled to join VMware as MLE! We do some interesting projects on own LLM platform like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
 - *2022.06*: &nbsp;🔥🔥 Our AIGC platform [Kreado AI](https://kreadoai.com/) has released to all over the world！
 - *2021.04*: &nbsp;👏👏 Glad to obtain fully-funded PhD offer from University of HongKong (HKU)!
 - *2021.01*: &nbsp;🥰🥰 Our eyes control platform has helped high-paraplegia disabled people more than 300!
 - *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
 
 # 📝 Publications 
+## Vision-Language Model
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DiffPure-VLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**](https://arxiv.org/abs/2504.01308)
+
+Jiawei Wang, Yushen Zuo, Yuanjun Chai, Zhendong Liu, Yicheng Fu, Yichun Feng, Kin-Man Lam
+
+[**Project**](https://github.com/JarvisUSTC/DiffPureRobustVLM) \| [![](https://img.shields.io/github/stars/JarvisUSTC/DiffPureRobustVLM?style=social&label=Code+Stars)](https://github.com/JarvisUSTC/DiffPureRobustVLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- We propose the Robust-VLGuard dataset and DiffPure-VLM defense framework to address the problem that visual language models (VLMs) are vulnerable to Gaussian noise and adversarial perturbation attacks. Through fine-tuning with Gaussian noise enhancement, the attack success rate of VLMs on datasets such as CIFAR-10 and ImageNet is significantly reduced (for example, the attack success rate of MiniGPT-4 in the RealToxicityPrompts benchmark test dropped from 44.1% to 16.5%). Combined with the distribution conversion capability of the diffusion model DiffPure, adversarial noise is converted into Gaussian noise, further improving the defense effect, especially under strong attacks (for example, the attack success rate of InternVL2 dropped from 57.3% to 36.1% when ϵ=64/255).
+</div>
+</div>
+
 ## 👁️ Computer Vision
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/ikc_arch02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
