@@ -51,7 +51,7 @@ Not only diving into research, I am also willing to empower new technologies int
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
-- *2025.04*: &nbsp;🔥🔥 Our arxiv paper [**DiffPure-VLM**](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding has been released!
+- *2025.04*: &nbsp;🔥🔥 Our arxiv paper [DiffPure-VLM](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding has been released!
 - *2024.09*: &nbsp;🥰🥰 Go to University of Washington! I am so excited to start my research new journey in UW!
 - *2022.07*: &nbsp;🎉🎉 Thrilled to join VMware as MLE! We do some interesting projects on own LLM platform like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
 <!-- - *2022.06*: &nbsp;🔥🔥 Our AIGC platform [Kreado AI](https://kreadoai.com/) has released to all over the world！ -->
