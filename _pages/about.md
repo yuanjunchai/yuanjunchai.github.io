@@ -28,11 +28,9 @@ I graduated with highest honors from Xidian University, earning a bachelor's deg
 
 Previously, I worked a machine learning engineer over 3 yrs at IT companies, like [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.3em;'>, focusing on LLM, agent and RAG. Before this, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a machine learning scientist. I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including AI Video Creation, AI model, custom clone service, and etc. 
 
-
 <!-- <img src='./images/SparkLLM.png' style='width: 2.7em;'>, working on SparkLLM, RAG, agent and Multi-modal LLM. -->
 <!-- Then, I am currently a machine learning engineer at VMware AI Lab <img src='./images/vmware.png' style='width: 2.3em;'>, working on LLM agent, RAG and VLM.<br /> -->
 <!-- Then, I decide to go back to UW to continue my research journey. -->
-
 ### Research Interests:
 
 <!-- - **Generative AI**: LLM in education, LLM diversity, Multi-modal LLM, text-to-image, text-to-video -->
