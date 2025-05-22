@@ -61,7 +61,7 @@ Not only diving into research, I am also willing to empower new technologies int
 
 # 📝 Publications 
 ## Vision-Language Model
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/diffpureVLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dpVLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**](https://arxiv.org/abs/2504.01308)
 
