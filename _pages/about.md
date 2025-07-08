@@ -22,11 +22,11 @@ Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. 
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
 
 
-I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about image inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/)  from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on CV.<br />
+I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about image inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/)  from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Vision.<br />
 
 <!-- and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) -->
 
-Previously, I worked a machine learning engineer over 3 yrs at IT companies, like [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.3em;'>, focusing on LLM, agent and RAG. Before this, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a machine learning scientist. I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including AI Video Creation, AI model, custom clone service, and etc. 
+Previously, I worked a machine learning engineer over 3 years at IT companies, such as [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.3em;'>, focusing on LLM, agent and RAG. Before this, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a machine learning scientist. I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including Video creation, virtual avatar, and etc. 
 
 <!-- <img src='./images/SparkLLM.png' style='width: 2.7em;'>, working on SparkLLM, RAG, agent and Multi-modal LLM. -->
 <!-- Then, I am currently a machine learning engineer at VMware AI Lab <img src='./images/vmware.png' style='width: 2.3em;'>, working on LLM agent, RAG and VLM.<br /> -->
@@ -36,8 +36,8 @@ Previously, I worked a machine learning engineer over 3 yrs at IT companies, lik
 <!-- - **Generative AI**: LLM in education, LLM diversity, Multi-modal LLM, text-to-image, text-to-video -->
 <!-- - **Virtual Avatar**: 2D&3D talking face generation, voice generation, custom character -->
 <!-- - **AI in healthcare**: medical image, medical VLM -->
-- **Computer Vision**: low&high-level vision, text-to-image, Vision-Language Model (VLM)
-- **NLP**: Language Model, LLM diversity
+- **Computer Vision**: low&high level vision, 3D vision, Vision-Language Model (VLM)
+- **NLP**: Language Model agent, RAG, LLM diversity
 - **Embodiment**: sim2real, diffusion policy, Vision-Language Action Model (VLA)
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
@@ -51,30 +51,33 @@ Not only diving into research, I am also willing to empower new technologies int
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
-- *2025.04*: &nbsp;🔥🔥 Our arxiv paper [DiffPure-VLM](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding has been released!
+- *2025.06*: &nbsp;🔥🔥 Our paper [DiffPure-VLM](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding has been accepted by **ICCV25**! See you in Hawaii! 🏖️
 - *2024.09*: &nbsp;🥰🥰 Go to University of Washington! I am so excited to start my research new journey in UW!
 - *2022.07*: &nbsp;🎉🎉 Thrilled to join VMware as MLE! We do some interesting projects on own LLM platform like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
 <!-- - *2022.06*: &nbsp;🔥🔥 Our AIGC platform [Kreado AI](https://kreadoai.com/) has released to all over the world！ -->
-- *2021.04*: &nbsp;👏👏 Glad to obtain fully-funded PhD offer from University of HongKong (HKU)!
+<!-- - *2021.04*: &nbsp;👏👏 Glad to obtain fully-funded PhD offer from University of HongKong (HKU)! -->
+- *2021.03*: &nbsp;👏👏 Rank 10 / 60 in [NTIRE 2021 Challenge on Image Deblurring](https://competitions.codalab.org/competitions/28073) in **CVPR 2021** and our method **Visual Token Transformer for Image Restoration** is selected to present in the [summary paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf).
 - *2021.01*: &nbsp;🥰🥰 Our eyes control platform has helped high-paraplegia disabled people more than 300!
 - *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
 
 # 📝 Publications 
-## Vision-Language Model
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dpVLM.png' alt="sym" width="100%"></div></div>
+<!-- ## Vision-Language Model -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/diffpureVLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**](https://arxiv.org/abs/2504.01308)
 
-Jiawei Wang, Yushen Zuo, Yuanjun Chai, Zhendong Liu, Yicheng Fu, Yichun Feng, Kin-Man Lam
+Jiawei Wang*, Yushen Zuo*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun Feng, Kin-Man Lam
 
 [**Project**](https://github.com/JarvisUSTC/DiffPureRobustVLM) \| [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisUSTC/DiffPure-RobustVLM)
 ](https://github.com/JarvisUSTC/DiffPureRobustVLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- We propose the **Robust-VLGuard dataset** and **DiffPure-VLM** defense framework to address the problem that visual language models (VLMs) are vulnerable to Gaussian noise and adversarial perturbation attacks. Through fine-tuning with Gaussian noise enhancement, the attack success rate of VLMs on datasets such as CIFAR-10 and ImageNet is significantly reduced (for example, the attack success rate of MiniGPT-4 in the RealToxicityPrompts benchmark test dropped from 44.1% to 16.5%). Combined with the distribution conversion capability of the diffusion model DiffPure, adversarial noise is converted into Gaussian noise, further improving the defense effect, especially under strong attacks (for example, the attack success rate of InternVL2 dropped from 57.3% to 36.1% when ϵ=64/255).
+<!-- - We propose the **Robust-VLGuard dataset** and **DiffPure-VLM** defense framework to address the problem that visual language models (VLMs) are vulnerable to Gaussian noise and adversarial perturbation attacks. Through fine-tuning with Gaussian noise enhancement, the attack success rate of VLMs on datasets such as CIFAR-10 and ImageNet is significantly reduced (for example, the attack success rate of MiniGPT-4 in the RealToxicityPrompts benchmark test dropped from 44.1% to 16.5%). Combined with the distribution conversion capability of the diffusion model DiffPure, adversarial noise is converted into Gaussian noise, further improving the defense effect, especially under strong attacks (for example, the attack success rate of InternVL2 dropped from 57.3% to 36.1% when ϵ=64/255). -->
+<!-- - We notice Vision-Language Models (VLMs) are surprisingly vulnerable to "jailbreak attacks," especially when faced with noisy images or simple Gaussian noise perturbations. To address it, we propose Robust-VLGuard (a new multimodal safety dataset) and DiffPure-VLM (a novel defense framework). -->
+- Our **Robust-VLGuard** dataset and **DiffPure-VLM** defense framework tackle the vulnerability of visual language models (VLMs) to adversarial perturbation attacks. By combining Gaussian noise enhancement and diffusion model-based adversarial noise conversion, we demonstrably improve VLM robustness, even against strong attacks.
 </div>
 </div>
 
-## 👁️ Computer Vision
+<!-- ## 👁️ Computer Vision -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/ikc_arch02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,11 +86,25 @@ Jiawei Wang, Yushen Zuo, Yuanjun Chai, Zhendong Liu, Yicheng Fu, Yichun Feng, Ki
 Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 
 [**Project**](https://www.jasongt.com/projectpages/IKC.html) \| [![](https://img.shields.io/github/stars/yuanjunchai/IKC?style=social&label=Code+Stars)](https://github.com/yuanjunchai/IKC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose an Iterative Kernel Correction (IKC) method for blur kernel estimation in blind SR problem, where the blur kernels are unknown. We draw the observation that kernel mismatch could bring regular artifacts (either over-sharpening or over-smoothing), which can be applied to correct inaccurate blur kernels. Thus we introduce an iterative correction scheme – IKC that achieves better results than direct kernel estimation. We further propose an effective SR network architecture using spatial feature transform (SFT) layers to handle multiple blur kernels, named SFTMD.
+<!-- - We introduce the Iterative Kernel Correction (IKC) method, which identifies and rectifies blur kernel inaccuracies to achieve superior results in blind super-resolution, further enhanced by our SFTMD network for diverse blur kernels. -->
+- Our innovative Iterative Kernel Correction (IKC) method tackles blind super-resolution by leveraging characteristic artifacts from kernel mismatch to refine blur kernel estimations. This, combined with our SFTMD network architecture utilizing spatial feature transform layers, delivers enhanced performance across various blur conditions. The code implementation is available on my [GitHub](https://github.com/yuanjunchai/IKC).
+<!-- - We propose an Iterative Kernel Correction (IKC) method for blur kernel estimation in blind SR problem, where the blur kernels are unknown. We draw the observation that kernel mismatch could bring regular artifacts (either over-sharpening or over-smoothing), which can be applied to correct inaccurate blur kernels. Thus we introduce an iterative correction scheme – IKC that achieves better results than direct kernel estimation. We further propose an effective SR network architecture using spatial feature transform (SFT) layers to handle multiple blur kernels, named SFTMD. -->
 </div>
 </div> 
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRw</div><img src='images/cvprw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**NTIRE 2021 Challenge on Image Deblurring**](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf)
+
+Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo, **Yuanjun Chai** et al.
+
+<!-- [**Project**](https://www.jasongt.com/projectpages/IKC.html) \| [![](https://img.shields.io/github/stars/yuanjunchai/IKC?style=social&label=Code+Stars)](https://github.com/yuanjunchai/IKC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We propose new method **Visual Token Transformer for Image Restoration** for image deblurring at NTIRE 2021 Challenge on Image Deblurring, which achieves the top 10 place in the leaderboard.
+</div>
+</div> 
+
+
 
 # 🖥️ Innovational Products
 ## 🧑‍🎨 AIGC (Generative Model)
@@ -102,7 +119,7 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
   - Virtual Avatar (talking-face generation, speech synthesis, LLM)
   - AI model (text-to-image, LoRA, control net)
   - Custom clone serivces (image-to-video, voice clone)
-  - Many AI tools and AI property
+  <!-- - Many AI tools and AI property -->
 - Here I mainly focus on the Virtual Avatar and AI model algorithms improvement, as well as collaborate with system architect for entire architecture improvement. Users radiate to Europe, Africa, Southeast Asia, and the Americas, with quarterly revenue exceeding US$1 million.
 </div>
 </div>
@@ -117,9 +134,8 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 
 [**Project**](https://gpt.h2o.ai/) \| [![](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social&label=Code+Stars)](https://github.com/h2oai/h2ogpt) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We develop a new RAG-based LLM platform for AI cloud native and private AI. The platform could leverage diverse LLMs with extended dataset such as pdf, code base, dataset and internet links. Here I am responsible for all RAG-based LLM algorithm development, as well as industrial deployment. Functionality includes: 
-  - QA and chat with extended dataset extraction
-  - Content summarization
-  - Content generation
+  - text QA and chat with RAG
+  - multi-modal QA and chat
   - AI agent
 - Next step we would take research about Multi-modal LLM for AI cloud native.
 </div>
