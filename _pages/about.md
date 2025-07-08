@@ -60,13 +60,13 @@ Not only diving into research, I am also willing to empower new technologies int
 - *2021.01*: &nbsp;🥰🥰 Our eyes control platform has helped high-paraplegia disabled people more than 300!
 - *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
 
-# 📝 Publications 
+# 📝 Research 
 <!-- ## Vision-Language Model -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/diffpureVLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**](https://arxiv.org/abs/2504.01308)
 
-Jiawei Wang*, Yushen Zuo*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun Feng, Kin-Man Lam
+Jiawei Wang\*, Yushen Zuo\*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun Feng, Kin-Man Lam
 
 [**Project**](https://github.com/JarvisUSTC/DiffPureRobustVLM) \| [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisUSTC/DiffPure-RobustVLM)
 ](https://github.com/JarvisUSTC/DiffPureRobustVLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
