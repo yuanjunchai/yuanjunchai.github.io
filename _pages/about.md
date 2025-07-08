@@ -106,7 +106,7 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 
 
 
-# 🖥️ Innovational Products
+# 🖥️ Industrial Experience
 ## 🧑‍🎨 AIGC (Generative Model)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/kreado03.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
