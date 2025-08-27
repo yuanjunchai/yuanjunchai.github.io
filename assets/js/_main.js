@@ -63,70 +63,57 @@ $(document).ready(function(){
   // add lightbox class to all image links
   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
-  // Magnific-Popup options
+  // Add zoom functionality to paper-box images
+  $(".paper-box-image img").each(function() {
+    var imgSrc = $(this).attr('src');
+    var imgAlt = $(this).attr('alt') || 'Image';
+    
+    // Wrap the image in a clickable div for zoom
+    $(this).wrap('<a href="' + imgSrc + '" class="paper-image-zoom" title="Click to zoom"></a>');
+  });
+
+  // Magnific-Popup options for regular image links
   $(".image-popup").magnificPopup({
-    // disableOn: function() {
-    //   if( $(window).width() < 500 ) {
-    //     return false;
-    //   }
-    //   return true;
-    // },
     type: 'image',
     tLoading: 'Loading image #%curr%...',
     gallery: {
       enabled: true,
       navigateByImgClick: true,
-      preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+      preload: [0,1]
     },
     image: {
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
     },
-    removalDelay: 500, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open.
-    // make it unique to apply your CSS animations just to this exact popup
+    removalDelay: 500,
     mainClass: 'mfp-zoom-in',
     callbacks: {
       beforeOpen: function() {
-        // just a hack that adds mfp-anim class to markup
         this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
       }
     },
     closeOnContentClick: true,
-    midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
+    midClick: true
   });
 
-  // Paper box image zoom functionality
-  $(".paper-box-image img").each(function() {
-    var $img = $(this);
-    var $container = $img.parent();
-    
-    // Wrap image in container with zoom overlay
-    $img.wrap('<div class="image-container"></div>');
-    $img.after('<div class="zoom-overlay"><i class="fas fa-search-plus zoom-icon"></i></div>');
-    
-    // Handle click on image container for zoom
-    $img.parent('.image-container').on('click', function() {
-      var imageSrc = $img.attr('src');
-      
-      $.magnificPopup.open({
-        items: {
-          src: imageSrc
-        },
-        type: 'image',
-        tLoading: 'Loading image...',
-        mainClass: 'mfp-zoom-in',
-        callbacks: {
-          beforeOpen: function() {
-            this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
-          }
-        },
-        image: {
-          tError: 'The image could not be loaded.'
-        },
-        closeOnContentClick: true,
-        removalDelay: 500
-      });
-    });
+  // Magnific-Popup options for paper-box images
+  $(".paper-image-zoom").magnificPopup({
+    type: 'image',
+    tLoading: 'Loading image...',
+    image: {
+      tError: 'The image could not be loaded.',
+      titleSrc: function(item) {
+        return item.el.find('img').attr('alt') || 'Research Image';
+      }
+    },
+    removalDelay: 500,
+    mainClass: 'mfp-zoom-in',
+    callbacks: {
+      beforeOpen: function() {
+        this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
+      }
+    },
+    closeOnContentClick: true,
+    midClick: true
   });
 
 });
