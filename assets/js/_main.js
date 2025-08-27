@@ -95,4 +95,38 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  // Paper box image zoom functionality
+  $(".paper-box-image img").each(function() {
+    var $img = $(this);
+    var $container = $img.parent();
+    
+    // Wrap image in container with zoom overlay
+    $img.wrap('<div class="image-container"></div>');
+    $img.after('<div class="zoom-overlay"><i class="fas fa-search-plus zoom-icon"></i></div>');
+    
+    // Handle click on image container for zoom
+    $img.parent('.image-container').on('click', function() {
+      var imageSrc = $img.attr('src');
+      
+      $.magnificPopup.open({
+        items: {
+          src: imageSrc
+        },
+        type: 'image',
+        tLoading: 'Loading image...',
+        mainClass: 'mfp-zoom-in',
+        callbacks: {
+          beforeOpen: function() {
+            this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
+          }
+        },
+        image: {
+          tError: 'The image could not be loaded.'
+        },
+        closeOnContentClick: true,
+        removalDelay: 500
+      });
+    });
+  });
+
 });
