@@ -76,7 +76,7 @@ Liwei Jiang, **Yuanjun Chai**, Margaret Li, Mickel Liu, Raymond Fok, Maarten Sap
 </div>
 </div>
 <!-- ## Vision-Language Model -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/diffpureVLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><a href="images/diffpureVLM.png"><img src='images/diffpureVLM.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 [**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**](https://arxiv.org/abs/2504.01308)
 
@@ -92,7 +92,7 @@ Jiawei Wang\*, Yushen Zuo\*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun 
 </div>
 
 <!-- ## 👁️ Computer Vision -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/ikc_arch02.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><a href="images/ikc_arch02.png"><img src='images/ikc_arch02.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**IKC: Blind Super-Resolution With Iterative Kernel Correction**](https://arxiv.org/pdf/1904.03377.pdf)
@@ -106,7 +106,7 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRw</div><img src='images/cvprw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRw</div><a href="images/cvprw.png"><img src='images/cvprw.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**NTIRE 2021 Challenge on Image Deblurring**](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf)
@@ -122,7 +122,7 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 
 # 🖥️ Industrial Experience
 ## 🧑‍🎨 AIGC (Generative Model)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/kreado03.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/kreado03.png"><img src='images/kreado03.png' alt="sym" width="120%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Kreado AI: AIGC Platform for Marketing Content Generation**](https://kreadoai.com/)
@@ -139,7 +139,7 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 </div>
 
 ## 🧙‍♂️ RAG-based LLM
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/h2oGPT.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/h2oGPT.png"><img src='images/h2oGPT.png' alt="sym" width="120%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**h2o GPT: AIGC Platform for Marketing Content Generation**](https://tanzu.vmware.com/content/blog/vmware-greenplum-excels-as-genai-llm-data-platform)
@@ -157,7 +157,7 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 
 
 ## 👨‍⚕️ AI healthcare & Charity
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/eyes02.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/eyes02.jpg"><img src='images/eyes02.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Face Control: Fine Facial Control Platform for High-paraplegia Disabled People**](https://www.bilibili.com/video/BV1u34y1d7g3/?p=1&share_medium=iphone&share_plat=ios&share_session_id=FDFAD6F5-CCF8-47D9-B33E-DE9CB343384E&share_source=WEIXIN&share_tag=s_i&timestamp=1639402219&unique_k=OkjAetO)
