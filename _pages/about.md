@@ -61,9 +61,9 @@ Not only diving into research, I am also willing to empower new technologies int
 - *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
 
 # 📝 Research 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LLM_diversity.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><a href="images/LLM_diversity.png"><img src='images/LLM_diversity.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
-[**Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)**](https://https://yuanjunchai.github.io/#)
+[**Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)**](https://yuanjunchai.github.io/#)
 
 Liwei Jiang, **Yuanjun Chai**, Margaret Li, Mickel Liu, Raymond Fok, Maarten Sap, Yulia Tsvetkov, Nouha Dziri, Alon Albalak, Yejin Choi
 
