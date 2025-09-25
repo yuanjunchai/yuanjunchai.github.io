@@ -20,13 +20,13 @@ redirect_from:
 Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. Now I am a MSEE student in University of Washington Seattle<img src='./images/UWlogo.png' style='width: 2.0em;'> (Go Husky!). 
 
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
-
+<br />
 
 I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about image inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution, [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare, [Yue Gao](https://www.gaoyue.org/)  from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on Vision.<br />
 
 <!-- and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) -->
-
-Previously, I worked a machine learning engineer over 3 years at IT companies, such as [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.3em;'>, focusing on LLM, agent and RAG. Before this, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a machine learning scientist. I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including Video creation, virtual avatar, and etc. 
+<br />
+Previously, I worked a machine learning engineer over 3 years at IT companies, such as [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 3.0em;'>, focusing on LLM, agent and RAG. Before this, I worked in [YeahMobi](https://en.yeahmobi.com/) -- affiliation of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.3em;'>, as a machine learning scientist. I was responsible for the all technical development of AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em;'>, including Video creation, virtual avatar, and etc. 
 
 <!-- <img src='./images/SparkLLM.png' style='width: 2.7em;'>, working on SparkLLM, RAG, agent and Multi-modal LLM. -->
 <!-- Then, I am currently a machine learning engineer at VMware AI Lab <img src='./images/vmware.png' style='width: 2.3em;'>, working on LLM agent, RAG and VLM.<br /> -->
