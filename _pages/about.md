@@ -75,8 +75,7 @@ Liwei Jiang, **Yuanjun Chai**, Margaret Li, Mickel Liu, Raymond Fok, Maarten Sap
 <!-- \| [![GitHub Repo stars](https://github.com/liweijiang/artificial-hivemind)
 ](https://github.com/liweijiang/artificial-hivemind) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-
-- Our **Robust-VLGuard** dataset and **DiffPure-VLM** defense framework tackle the vulnerability of visual language models (VLMs) to adversarial perturbation attacks. By combining Gaussian noise enhancement and diffusion model-based adversarial noise conversion, we demonstrably improve VLM robustness, even against strong attacks.
+- Uncovered and analyzed the "Artificial Hivemind" effect, demonstrating significant intra-model repetition and inter-model homogeneity in current language models. Introduced $\infty$-Chats, the first large-scale (26K queries) dataset of real-world open-ended user queries, and developed a comprehensive taxonomy (6 categories, 17 subcategories) for LLM prompts.
 </div>
 </div>
 <!-- ## Vision-Language Model -->
