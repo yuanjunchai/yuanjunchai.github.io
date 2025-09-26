@@ -173,15 +173,16 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 </div>
 
 # 🎖 Honors and Awards
-- *2021.04* Obtain a fully-funded PhD return offer from Li Ka Shing Faculty of Medicine, University of Hong Kong.
+<!-- - *2021.04* Obtain a fully-funded PhD return offer from Li Ka Shing Faculty of Medicine, University of Hong Kong. -->
 - *2019.06* Outstanding Undergraduate Student Award. 
 - *2019.06* Outstanding Undergraduate Thesis Award (10/5000), Topic: Image Inpainting Based on Deep Learning. 
-- *2018.08* Cambridge Summer AI Academic Programme Excellent Student – All A+ of Artificial Intelligence Classes.
+- *2018.08* Cambridge Summer AI Academic Programme Excellent Student – Full Fulled Scholarship.
 - *2017.05* Golden Medal of National Computer Design Contest -- Birdsong Recognition with Machine Learning.
 
 # 🎓 Educations
+- *2024.09 - now*, Master, University of Washington, Seattle
 - *2015.08 - 2019.06*, Undergraduate, Xidian University. 
-- *2018.08 - 2018.09*, Summer School, University of Cambridge (with Prof. Pietro Lio). 
+- *2018.08 - 2018.09*, Summer Exchange Program, University of Cambridge (with Prof. Pietro Lio). 
 - *2012.08 - 2015.06*, High School Affiliated to Northwestern University
 
 <!-- # 💬 Invited Talks
@@ -195,8 +196,8 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 # 🧑‍💻 Professional Experience
 - *2022.07 - 2024.09*, Senior Machine Learning Engineer, VMware AI Lab
 <!-- - *2023 - now*, Machine Learning Engineer, iFlyTek -->
-- *2021.07 - 2022.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
-- *2019.05 - 2022.07*, Research Assistant in CAS, Tsinghua University and HKU (get return PhD offer).
+- *2020.07 - 2022.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
+- *2019.05 - 2020.07*, Research Assistant in CAS, Tsinghua University
 
 # 🏃‍♂️ Hobbies
 My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
