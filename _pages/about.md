@@ -174,10 +174,10 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 
 # 🎖 Honors and Awards
 <!-- - *2021.04* Obtain a fully-funded PhD return offer from Li Ka Shing Faculty of Medicine, University of Hong Kong. -->
-- *2019.06* Outstanding Undergraduate Student Award. 
-- *2019.06* Outstanding Undergraduate Thesis Award (10/5000), Topic: Image Inpainting Based on Deep Learning. 
-- *2018.08* Cambridge Summer AI Academic Programme Excellent Student – Full Fulled Scholarship.
-- *2017.05* Golden Medal of National Computer Design Contest -- Birdsong Recognition with Machine Learning.
+- Outstanding Undergraduate Student Award. 
+- Outstanding Undergraduate Thesis Award (10/5000), Topic: Image Inpainting Based on Deep Learning. 
+- Cambridge Summer AI Academic Programme Excellent Student – Full Fulled Scholarship.
+- Golden Medal of National Computer Design Contest -- Birdsong Recognition with Machine Learning.
 
 # 🎓 Educations
 - *2024.09 - now*, Master, University of Washington, Seattle
