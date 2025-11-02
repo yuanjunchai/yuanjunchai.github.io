@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanjun Chai (柴源君)"
-description              : "Graduate Student in UW Seattle. Focusing on LLM, VLM, AIGC, Computer Vision, and Embodied AI."
+description              : "Graduate Student in UW Seattle. Focusing on LLM, VLM, Computer Vision, and Embodied AI."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuanjun Chai"
-  avatar           : "images/cyj03.png"
+  avatar           : "images/HR3.jpg"
   bio              : "UW Seattle"
   location         : "Seattle, WA"
   employer         :
