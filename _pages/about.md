@@ -54,6 +54,7 @@ Not only diving into research, I am also willing to empower new technologies int
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
+- *2025.10*: &nbsp;🎉🎉 Obtained UW Graduate Student Conference Presentation Award and UW ECE Student Professional Development Award, to support attending ICCV at Hawaii.
 - *2025.09*: &nbsp;🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Large Language Model Homogeneity pattern, has been accepted by **NeurIPS Oral (DB Track)**! See you in San Diego! 
 - *2025.06*: &nbsp;🔥🔥 Our paper [DiffPure-VLM](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding, has been accepted by **ICCV25**! See you in Hawaii! 🏖️
 - *2024.09*: &nbsp;🥰🥰 Go to University of Washington! I am so excited to start my research new journey in UW!
@@ -67,7 +68,7 @@ Not only diving into research, I am also willing to empower new technologies int
 # 📝 Research 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Oral (DB Track)</div><a href="images/LLM_diversity_part.png"><img src='images/LLM_diversity_part.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
-[**Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)**](https://yuanjunchai.github.io/#)
+[**Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)**](https://arxiv.org/abs/2510.22954)
 
 Liwei Jiang, **Yuanjun Chai**, Margaret Li, Mickel Liu, Raymond Fok, Maarten Sap, Yulia Tsvetkov, Nouha Dziri, Alon Albalak, Yejin Choi
 
@@ -95,7 +96,7 @@ Jiawei Wang\*, Yushen Zuo\*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun 
 </div>
 
 <!-- ## 👁️ Computer Vision -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><a href="images/ikc_arch02.png"><img src='images/ikc_arch02.png' alt="sym" width="100%"></a></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><a href="images/ikc_arch02.png"><img src='images/ikc_arch02.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**IKC: Blind Super-Resolution With Iterative Kernel Correction**](https://arxiv.org/pdf/1904.03377.pdf)
@@ -103,11 +104,12 @@ Jiawei Wang\*, Yushen Zuo\*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun 
 Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 
 [**Project**](https://www.jasongt.com/projectpages/IKC.html) \| [![](https://img.shields.io/github/stars/yuanjunchai/IKC?style=social&label=Code+Stars)](https://github.com/yuanjunchai/IKC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<!-- - We introduce the Iterative Kernel Correction (IKC) method, which identifies and rectifies blur kernel inaccuracies to achieve superior results in blind super-resolution, further enhanced by our SFTMD network for diverse blur kernels. -->
 - Our innovative Iterative Kernel Correction (IKC) method tackles blind super-resolution by leveraging characteristic artifacts from kernel mismatch to refine blur kernel estimations. This, combined with our SFTMD network architecture utilizing spatial feature transform layers, delivers enhanced performance across various blur conditions. The code implementation is available on my [GitHub](https://github.com/yuanjunchai/IKC).
-<!-- - We propose an Iterative Kernel Correction (IKC) method for blur kernel estimation in blind SR problem, where the blur kernels are unknown. We draw the observation that kernel mismatch could bring regular artifacts (either over-sharpening or over-smoothing), which can be applied to correct inaccurate blur kernels. Thus we introduce an iterative correction scheme – IKC that achieves better results than direct kernel estimation. We further propose an effective SR network architecture using spatial feature transform (SFT) layers to handle multiple blur kernels, named SFTMD. -->
 </div>
-</div> 
+</div>  -->
+
+<!-- - We introduce the Iterative Kernel Correction (IKC) method, which identifies and rectifies blur kernel inaccuracies to achieve superior results in blind super-resolution, further enhanced by our SFTMD network for diverse blur kernels. -->
+<!-- - We propose an Iterative Kernel Correction (IKC) method for blur kernel estimation in blind SR problem, where the blur kernels are unknown. We draw the observation that kernel mismatch could bring regular artifacts (either over-sharpening or over-smoothing), which can be applied to correct inaccurate blur kernels. Thus we introduce an iterative correction scheme – IKC that achieves better results than direct kernel estimation. We further propose an effective SR network architecture using spatial feature transform (SFT) layers to handle multiple blur kernels, named SFTMD. -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRw</div><a href="images/cvprw.png"><img src='images/cvprw.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
