@@ -40,8 +40,8 @@ Previously, I worked as a machine learning engineer for over 3 years at IT compa
 <!-- - **Virtual Avatar**: 2D&3D talking face generation, voice generation, custom character -->
 <!-- - **AI in healthcare**: medical image, medical VLM -->
 - **Computer Vision**: Low&High level vision, 3D vision, Vision-Language Model (VLM)
-- **NLP**: Language Model agent, Post-training, LLM diversity
-- **Embodiment**: Sim2real, Diffusion policy, Vision-Language Action Model (VLA)
+- **NLP**: LM agent, RLVR, LLM diversity
+- **Embodiment**: Vision-Language Action Model (VLA)
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
 Not only diving into research, I am also willing to empower new technologies into products to **make people's lives better**. Thus, I co-founded a start-up [INGREM inc](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** using computer with precise eyes controling platform. 
