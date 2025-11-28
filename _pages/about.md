@@ -54,7 +54,7 @@ Not only diving into research, I am also willing to empower new technologies int
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
-- *2025.11*: &nbsp;🔥🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Large Language Model Homogeneity pattern, has been accepted by **NeurIPS Best Paper Award**! See you in San Diego! 
+- *2025.11*: &nbsp;🔥🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Language Model Homogeneity, has been accepted by **NeurIPS Best Paper Award**! See you in San Diego! 
 - *2025.10*: &nbsp;🎉🎉 Obtained UW Graduate Student Conference Presentation Award and UW ECE Student Professional Development Award, to support attending ICCV at Hawaii.
 - *2025.09*: &nbsp;🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Large Language Model Homogeneity pattern, has been accepted by **NeurIPS Oral (DB Track)**! See you in San Diego! 
 - *2025.06*: &nbsp;🔥🔥 Our paper [DiffPure-VLM](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding, has been accepted by **ICCV25**! See you in Hawaii! 🏖️
@@ -207,4 +207,4 @@ My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Mot
 
 Besides, I have my lovely cats🐱: 
 <br />
-<img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/cat02.jpg' alt="sym02" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
+<img src='images/Cat01.jpg' alt="sym01" width="25%"> <img src='images/Cat02.jpg' alt="sym02" width="25%"> <img src='images/Cat03.jpg' alt="sym03" width="25%">
