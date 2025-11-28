@@ -207,4 +207,4 @@ My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Mot
 
 Besides, I have my lovely cats🐱: 
 <br />
-<img src='images/Cat01.jpg' alt="sym01" width="25%"> <img src='images/Cat02.jpg' alt="sym02" width="25%"> <img src='images/Cat03.jpg' alt="sym03" width="25%">
+<img src='images/cat01.jpg' alt="sym01" width="10%"> <img src='images/cat02.jpg' alt="sym02" width="10%"> <img src='images/cat03.jpg' alt="sym03" width="10%">
