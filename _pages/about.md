@@ -46,6 +46,8 @@ Previously, I worked as a machine learning engineer for over 3 years at IT compa
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
 Not only diving into research, I am also willing to empower new technologies into products to **make people's lives better**. Thus, I co-founded a start-up [INGREM inc](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** using computer with precise eyes controling platform. 
 
+**I am currently seeking PhD positions for fall 2026 and any other job opportunities.** Feel free to reach out!
+
 <!-- By the way, I am open to collaborate with other researchers. Although pursuing academics is a tough journey, but we could overcome it together. Now I am holding multiple GPUs. If you are interested in my research, please directly contact me: [yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com). -->
 
 
