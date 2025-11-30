@@ -39,8 +39,8 @@ Previously, I worked as a machine learning engineer for over 3 years at IT compa
 <!-- - **Generative AI**: LLM in education, LLM diversity, Multi-modal LLM, text-to-image, text-to-video -->
 <!-- - **Virtual Avatar**: 2D&3D talking face generation, voice generation, custom character -->
 <!-- - **AI in healthcare**: medical image, medical VLM -->
-- **Computer Vision**: Low&High level vision, 3D vision, Vision-Language Model (VLM)
-- **NLP**: LM agent, RLVR, LLM diversity
+- **NLP**: LM agent, RLVR, LM Pluralism, Pluralistic Alignment
+- **Computer Vision**: world model, 3D vision, Vision-Language Model (VLM)
 - **Embodiment**: Vision-Language Action Model (VLA)
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
