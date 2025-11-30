@@ -40,7 +40,7 @@ Previously, I worked as a machine learning engineer for over 3 years at IT compa
 <!-- - **Virtual Avatar**: 2D&3D talking face generation, voice generation, custom character -->
 <!-- - **AI in healthcare**: medical image, medical VLM -->
 - **LLM**: LM agent, RLVR, LM Pluralism, Pluralistic Alignment
-- **Multi-modality**: world model, 3D vision, Vision-Language Model (VLM)
+- **Multi-modality**: world model, Vision-Language Model (VLM)
 - **Spatial Intelligence**: Vision-Language Action Model (VLA)
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
