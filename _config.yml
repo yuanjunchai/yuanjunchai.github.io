@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanjun Chai (柴源君)"
-description              : "Graduate Student in UW Seattle. Focusing on LLM, VLM, Computer Vision, and Embodied AI."
+description              : "Graduate Student in University of Washington"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://yuanjunchai.github.io/#"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=8HogNWYAAAAJ&gmla=AOv-ny-3q8xFWIcxDSDZQeZ6LAAo4cb9tbvsyd4TRi1aARPPBtqwBHzRiIR8KWfOCTL8snmi5k7FtYHZ3Ku26N2uMWJGm5LiwQ"
   email            : "yuanjunchai89@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
