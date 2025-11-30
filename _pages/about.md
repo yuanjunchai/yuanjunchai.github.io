@@ -39,7 +39,7 @@ Previously, I worked as a machine learning engineer for over 3 years at IT compa
 <!-- - **Generative AI**: LLM in education, LLM diversity, Multi-modal LLM, text-to-image, text-to-video -->
 <!-- - **Virtual Avatar**: 2D&3D talking face generation, voice generation, custom character -->
 <!-- - **AI in healthcare**: medical image, medical VLM -->
-- **LLM**: LM agent, RLVR, LM Pluralism, Pluralistic Alignment
+- **LLM**: LM agent, RLVR, LM Pluralistic Alignment
 - **Multi-modality**: world model, Vision-Language Model (VLM)
 - **Spatial Intelligence**: Vision-Language Action Model (VLA)
 
