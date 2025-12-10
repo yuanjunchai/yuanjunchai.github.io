@@ -69,11 +69,13 @@ Not only diving into research, but I am also willing to empower new technologies
 - *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
 
 # 📝 Research 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS <span class="highlight">Best Paper Award</span></div><a href="images/LLM_diversity_part.png"><img src='images/LLM_diversity_part.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</span></div><a href="images/LLM_diversity_part.png"><img src='images/LLM_diversity_part.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 [**Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)**](https://arxiv.org/abs/2510.22954)
 
 Liwei Jiang, **Yuanjun Chai**, Margaret Li, Mickel Liu, Raymond Fok, Maarten Sap, Yulia Tsvetkov, Nouha Dziri, Alon Albalak, Yejin Choi
+
+**NeurIPS 2025 Best Paper Award**
 
 [**Project**](https://github.com/liweijiang/artificial-hivemind) \| [**Dataset**](https://huggingface.co/collections/liweijiang/artificial-hivemind) \| ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/liweijiang/infinite-chats-eval&query=$.downloads&label=Downloads&color=blue)
 <!-- \| [![GitHub Repo stars](https://github.com/liweijiang/artificial-hivemind)
@@ -92,6 +94,7 @@ Jiawei Wang\*, Yushen Zuo\*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun 
 [**Project**](https://github.com/JarvisUSTC/DiffPureRobustVLM) \| [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisUSTC/DiffPure-RobustVLM)
 ](https://github.com/JarvisUSTC/DiffPureRobustVLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+ICCV 2025
 <!-- - We propose the **Robust-VLGuard dataset** and **DiffPure-VLM** defense framework to address the problem that visual language models (VLMs) are vulnerable to Gaussian noise and adversarial perturbation attacks. Through fine-tuning with Gaussian noise enhancement, the attack success rate of VLMs on datasets such as CIFAR-10 and ImageNet is significantly reduced (for example, the attack success rate of MiniGPT-4 in the RealToxicityPrompts benchmark test dropped from 44.1% to 16.5%). Combined with the distribution conversion capability of the diffusion model DiffPure, adversarial noise is converted into Gaussian noise, further improving the defense effect, especially under strong attacks (for example, the attack success rate of InternVL2 dropped from 57.3% to 36.1% when ϵ=64/255). -->
 <!-- - We notice Vision-Language Models (VLMs) are surprisingly vulnerable to "jailbreak attacks," especially when faced with noisy images or simple Gaussian noise perturbations. To address it, we propose Robust-VLGuard (a new multimodal safety dataset) and DiffPure-VLM (a novel defense framework). -->
 - Our **Robust-VLGuard** dataset and **DiffPure-VLM** defense framework tackle the vulnerability of visual language models (VLMs) to adversarial perturbation attacks. By combining Gaussian noise enhancement and diffusion model-based adversarial noise conversion, we demonstrably improve VLM robustness, even against strong attacks.
@@ -121,6 +124,7 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 
 Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo, **Yuanjun Chai** et al.
 
+CVPR 2021 workshop
 <!-- [**Project**](https://www.jasongt.com/projectpages/IKC.html) \| [![](https://img.shields.io/github/stars/yuanjunchai/IKC?style=social&label=Code+Stars)](https://github.com/yuanjunchai/IKC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We propose new method **Visual Token Transformer for Image Restoration** for image deblurring at NTIRE 2021 Challenge on Image Deblurring, which achieves the top 10 place in the leaderboard.
 </div>
