@@ -69,7 +69,7 @@ Not only diving into research, but I am also willing to empower new technologies
 - *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
 
 # 📝 Research 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</span></div><a href="images/LLM_diversity_part.png"><img src='images/LLM_diversity_part.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><a href="images/LLM_diversity_part.png"><img src='images/LLM_diversity_part.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 [**Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)**](https://arxiv.org/abs/2510.22954)
 
