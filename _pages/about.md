@@ -44,7 +44,7 @@ Previously, I worked as a machine learning engineer for over 3 years at IT compa
 - **Spatial Intelligence**: Vision-Language Action Model (VLA)
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
-Not only diving into research, I am also willing to empower new technologies into products to **make people's lives better**. Thus, I co-founded a start-up [INGREM inc](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** using computer with precise eyes controling platform. 
+Not only diving into research, but I am also willing to empower new technologies into products to **make people’s lives better**. Thus, I co-founded a start-up, [INGREM Inc.](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** use a computer with a precise eye control platform.
 
 **I am currently seeking PhD positions for fall 2026 and any other job opportunities.** Feel free to reach out!
 
@@ -69,13 +69,13 @@ Not only diving into research, I am also willing to empower new technologies int
 - *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
 
 # 📝 Research 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS Best Paper Award</div><a href="images/LLM_diversity_part.png"><img src='images/LLM_diversity_part.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS <span class="highlight">Best Paper Award</span></div><a href="images/LLM_diversity_part.png"><img src='images/LLM_diversity_part.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 [**Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)**](https://arxiv.org/abs/2510.22954)
 
 Liwei Jiang, **Yuanjun Chai**, Margaret Li, Mickel Liu, Raymond Fok, Maarten Sap, Yulia Tsvetkov, Nouha Dziri, Alon Albalak, Yejin Choi
 
-[**Project**](https://github.com/liweijiang/artificial-hivemind) 
+[**Project**](https://github.com/liweijiang/artificial-hivemind) \| [**Dataset**](https://huggingface.co/collections/liweijiang/artificial-hivemind) \| ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/liweijiang/infinite-chats-eval&query=$.downloads&label=Downloads&color=blue)
 <!-- \| [![GitHub Repo stars](https://github.com/liweijiang/artificial-hivemind)
 ](https://github.com/liweijiang/artificial-hivemind) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
@@ -159,7 +159,7 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
   - text QA and chat with RAG
   - multi-modal QA and chat
   - AI agent
-- Next step we would take research about Multi-modal LLM for AI cloud native.
+  - Multi-modal LLM for AI cloud native.
 </div>
 </div>
 
@@ -172,13 +172,13 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 
 **Yuanjun Chai**, Ingrem.inc
 
-- I co-founded a start-up Ingrem, with other hardcore guys. We aim to build up a entire bed for living and playing of high-paraplegia disabled people. Here, I am responsible for the development of the software -- eyes&facial control platform. Based on computer vision algorithms, the system could help the diabled use their face details (such as eyebrow, eye, mouth, etc.) to control mouse and keyborad elaborately. Thus, our platform and our bed entirely enhance the accessibility of normal computer usage and social networks. We do believe tech
- make people's lives better, and we do it!
+- I co-founded a start-up, Ingrem, with other hardcore guys. We aim to build an entire bed for living and playing for high-paraplegic disabled people. Here, I am responsible for the development of the software – eyes&facial control platform. Based on computer vision algorithms, the system could help the disabled use their facial details (such as eyebrows, eyes, mouth, etc.) to control the mouse and keyboard elaborately. Thus, our platform and our bed entirely enhance the accessibility of normal computer usage and social networks. We do believe tech makes people’s lives better, and we do it!
 </div>
 </div>
 
 # 🎖 Honors and Awards
 <!-- - *2021.04* Obtain a fully-funded PhD return offer from Li Ka Shing Faculty of Medicine, University of Hong Kong. -->
+- NeurIPS'25 Best Paper Award
 - Outstanding Undergraduate Student Award. 
 - Outstanding Undergraduate Thesis Award (10/5000), Topic: Image Inpainting Based on Deep Learning. 
 - Cambridge Summer AI Academic Programme Excellent Student – Full Fulled Scholarship.
@@ -207,6 +207,6 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 # 🏃‍♂️ Hobbies
 My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
 
-Besides, I have my lovely cats🐱: 
+Besides, I have my lovely cat🐱 -- **Luna**: 
 <br />
 <img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
