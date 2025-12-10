@@ -90,11 +90,11 @@ Liwei Jiang, **Yuanjun Chai**, Margaret Li, Mickel Liu, Raymond Fok, Maarten Sap
 [**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**](https://arxiv.org/abs/2504.01308)
 
 Jiawei Wang\*, Yushen Zuo\*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun Feng, Kin-Man Lam
+ICCV 2025
 
 [**Project**](https://github.com/JarvisUSTC/DiffPureRobustVLM) \| [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisUSTC/DiffPure-RobustVLM)
 ](https://github.com/JarvisUSTC/DiffPureRobustVLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-ICCV 2025
 <!-- - We propose the **Robust-VLGuard dataset** and **DiffPure-VLM** defense framework to address the problem that visual language models (VLMs) are vulnerable to Gaussian noise and adversarial perturbation attacks. Through fine-tuning with Gaussian noise enhancement, the attack success rate of VLMs on datasets such as CIFAR-10 and ImageNet is significantly reduced (for example, the attack success rate of MiniGPT-4 in the RealToxicityPrompts benchmark test dropped from 44.1% to 16.5%). Combined with the distribution conversion capability of the diffusion model DiffPure, adversarial noise is converted into Gaussian noise, further improving the defense effect, especially under strong attacks (for example, the attack success rate of InternVL2 dropped from 57.3% to 36.1% when ϵ=64/255). -->
 <!-- - We notice Vision-Language Models (VLMs) are surprisingly vulnerable to "jailbreak attacks," especially when faced with noisy images or simple Gaussian noise perturbations. To address it, we propose Robust-VLGuard (a new multimodal safety dataset) and DiffPure-VLM (a novel defense framework). -->
 - Our **Robust-VLGuard** dataset and **DiffPure-VLM** defense framework tackle the vulnerability of visual language models (VLMs) to adversarial perturbation attacks. By combining Gaussian noise enhancement and diffusion model-based adversarial noise conversion, we demonstrably improve VLM robustness, even against strong attacks.
