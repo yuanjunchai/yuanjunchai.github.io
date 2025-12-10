@@ -90,6 +90,7 @@ Liwei Jiang, **Yuanjun Chai**, Margaret Li, Mickel Liu, Raymond Fok, Maarten Sap
 [**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**](https://arxiv.org/abs/2504.01308)
 
 Jiawei Wang\*, Yushen Zuo\*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun Feng, Kin-Man Lam
+
 ICCV 2025
 
 [**Project**](https://github.com/JarvisUSTC/DiffPureRobustVLM) \| [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisUSTC/DiffPure-RobustVLM)
