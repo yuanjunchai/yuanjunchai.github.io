@@ -39,14 +39,14 @@ Previously, I worked as a machine learning engineer for over 3 years at IT compa
 <!-- - **Generative AI**: LLM in education, LLM diversity, Multi-modal LLM, text-to-image, text-to-video -->
 <!-- - **Virtual Avatar**: 2D&3D talking face generation, voice generation, custom character -->
 <!-- - **AI in healthcare**: medical image, medical VLM -->
-- **LLM**: LM agent, RLVR, LM Pluralistic Alignment
+- **LLM**: LM agent, RLVR, LM Pluralistic Alignment, MoE
 - **Multi-modality**: world model, Vision-Language Model (VLM)
 - **Spatial Intelligence**: Vision-Language Action Model (VLA)
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
 Not only diving into research, but I am also willing to empower new technologies into products to **make people’s lives better**. Thus, I co-founded a start-up, [INGREM Inc.](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** use a computer with a precise eye control platform.
 
-**I am currently seeking PhD positions for fall 2026 and any other job opportunities.** Feel free to reach out!
+Interested in high-impact AI research (Industry/Academia). Feel free to reach out!
 
 <!-- By the way, I am open to collaborate with other researchers. Although pursuing academics is a tough journey, but we could overcome it together. Now I am holding multiple GPUs. If you are interested in my research, please directly contact me: [yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com). -->
 
@@ -56,6 +56,7 @@ Not only diving into research, but I am also willing to empower new technologies
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
+- *2026.01*: &nbsp;🥰🥰 Exciting to be internship at TikTok TnS team!
 - *2025.11*: &nbsp;🔥🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Language Model Homogeneity, has been accepted by **NeurIPS Best Paper Award**! See you in San Diego! 
 - *2025.10*: &nbsp;🎉🎉 Obtained UW Graduate Student Conference Presentation Award and UW ECE Student Professional Development Award, to support attending ICCV at Hawaii.
 - *2025.09*: &nbsp;🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Large Language Model Homogeneity pattern, has been accepted by **NeurIPS Oral (DB Track)**! See you in San Diego! 
