@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. Now I am a MSEE student in University of Washington Seattle<img src='./images/UWlogo.png' style='width: 2.0em;'> (Go Husky!). 
+Hi! This is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I just received my MSECE from the University of Washington Seattle<img src='./images/UWlogo.png' style='width: 2.0em;'> in August 2026 (Go Huskies!). 
 
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
 <!-- <br /> -->
 <span style="line-height:1.5;">
 
-I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis about image inpainting received invaluable support by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution,[Yue Gao](https://www.gaoyue.org/)  from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on event-camera.<br /> 
+I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis on image inpainting received invaluable support from [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution,[Yue Gao](https://www.gaoyue.org/)  from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on event-camera.<br /> 
  <!-- [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare,  -->
 
 <!-- and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) -->
 <span style="line-height:1.5;">
-Previously, I worked as a machine learning engineer for over 3 years at IT companies, such as [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 2.8em; vertical-align:middle;'>, focusing on LLM, agent, and RAG. Before this, I worked in [YeahMobi](https://en.yeahmobi.com/)—an affiliate of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.0em; vertical-align:middle;'>—as a machine learning scientist. I was responsible for all technical development of the AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em; vertical-align:middle;'>, including video creation, virtual avatar, and more.
+Previously, I worked as a machine learning engineer for 5 years at IT companies, such as [VMware AI Lab](https://www.vmware.com/artificial-intelligence/ai-labs.html) <img src='./images/vmwarelogo.jpeg' style='width: 2.8em; vertical-align:middle;'>, focusing on LLM, agent, and RAG. Before this, I worked at [YeahMobi](https://en.yeahmobi.com/)—an affiliate of [Alibaba Group](https://www.alibabagroup.com/en-US) <img src='./images/Alibaba-Logo.png' style='width: 3.0em; vertical-align:middle;'>—as a machine learning engineer. I was responsible for all technical development of the AIGC platform [Kreado AI](https://kreadoai.com/) <img src='./images/kreado_logo.png' style='width: 2.8em; vertical-align:middle;'>, including video creation, virtual avatar, and more.
 </span> 
 
 <!-- <img src='./images/SparkLLM.png' style='width: 2.7em;'>, working on SparkLLM, RAG, agent and Multi-modal LLM. -->
@@ -41,12 +41,12 @@ Previously, I worked as a machine learning engineer for over 3 years at IT compa
 <!-- - **AI in healthcare**: medical image, medical VLM -->
 - **LLM**: LM agent, RLVR, LM Pluralistic Alignment, MoE
 - **Multi-modality**: world model, Vision-Language Model (VLM)
-- **Spatial Intelligence**: Vision-Language Action Model (VLA)
+<!-- - **Spatial Intelligence**: Vision-Language Action Model (VLA) -->
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
-Not only diving into research, but I am also willing to empower new technologies into products to **make people’s lives better**. Thus, I co-founded a start-up, [INGREM Inc.](https://gazerecorder.com/gazepointer/), **to help high-paraplegia disabled people** use a computer with a precise eye control platform.
+Beyond research, I also want to turn new technologies into products that make people's lives better. Thus, I co-founded a start-up, [INGREM Inc.](https://gazerecorder.com/gazepointer/), to help high-paraplegia disabled people use a computer with a precise eye-control platform.
 
-Interested in high-impact AI research (Industry/Academia). Feel free to reach out!
+I am currently **seeking full-time roles in AI research and engineering (Industry/Academia)**, available from September 2026. Feel free to reach out!
 
 <!-- By the way, I am open to collaborate with other researchers. Although pursuing academics is a tough journey, but we could overcome it together. Now I am holding multiple GPUs. If you are interested in my research, please directly contact me: [yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com). -->
 
@@ -56,18 +56,20 @@ Interested in high-impact AI research (Industry/Academia). Feel free to reach ou
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
-- *2026.01*: &nbsp;🥰🥰 Exciting to be internship at TikTok TnS team!
-- *2025.11*: &nbsp;🔥🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Language Model Homogeneity, has been accepted by **NeurIPS Best Paper Award**! See you in San Diego! 
-- *2025.10*: &nbsp;🎉🎉 Obtained UW Graduate Student Conference Presentation Award and UW ECE Student Professional Development Award, to support attending ICCV at Hawaii.
+- *2026.09*: Just received my MSECE from UW Seattle. Open to new opportunities!
+- *2026.06*: Just wrapped up my internship with the TikTok TnS team!
+- *2026.01*: &nbsp;🥰🥰 Excited to start the internship with the TikTok TnS team!
+- *2025.11*: &nbsp;🔥🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Language Model Homogeneity, received the **NeurIPS Best Paper Award**! See you in San Diego! 
+- *2025.10*: &nbsp;🎉🎉 Received UW Graduate Student Conference Presentation Award and UW ECE Student Professional Development Award, to support attending ICCV at Hawaii.
 - *2025.09*: &nbsp;🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Large Language Model Homogeneity pattern, has been accepted by **NeurIPS Oral (DB Track)**! See you in San Diego! 
 - *2025.06*: &nbsp;🔥🔥 Our paper [DiffPure-VLM](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding, has been accepted by **ICCV25**! See you in Hawaii! 🏖️
-- *2024.09*: &nbsp;🥰🥰 Go to University of Washington! I am so excited to start my research new journey in UW!
-- *2022.07*: &nbsp;🎉🎉 Thrilled to join VMware as MLE! We do some interesting projects on own LLM platform like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
+- *2024.09*: &nbsp;🥰🥰 Go to University of Washington! I am so excited to start my new research journey in UW!
+- *2022.07*: &nbsp;🎉🎉 Thrilled to join VMware as ans MLE! We do some interesting projects on our own LLM platform like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
 <!-- - *2022.06*: &nbsp;🔥🔥 Our AIGC platform [Kreado AI](https://kreadoai.com/) has released to all over the world！ -->
 <!-- - *2021.04*: &nbsp;👏👏 Glad to obtain fully-funded PhD offer from University of HongKong (HKU)! -->
-- *2021.03*: &nbsp;👏👏 Rank 10 / 60 in [NTIRE 2021 Challenge on Image Deblurring](https://competitions.codalab.org/competitions/28073) in **CVPR 2021** and our method **Visual Token Transformer for Image Restoration** is selected to present in the [summary paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf).
-- *2021.01*: &nbsp;🥰🥰 Our eyes control platform has helped high-paraplegia disabled people more than 300!
-- *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution get more than ⭐️200+.
+- *2021.03*: &nbsp;👏👏 Rank 10 / 60 in [NTIRE 2021 Challenge on Image Deblurring](https://competitions.codalab.org/competitions/28073) in **CVPR 2021** and our method **Visual Token Transformer for Image Restoration** was selected for presentation in the [summary paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf).
+- *2021.01*: &nbsp;🥰🥰 Our eyes control platform has helped more than 300 people with paraplegia!
+- *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution has received more than ⭐️200+.
 
 # 📝 Research 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><a href="images/LLM_diversity_part.png"><img src='images/LLM_diversity_part.png' alt="sym" width="100%"></a></div></div>
@@ -128,7 +130,7 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo
 
 CVPR 2021 workshop
 <!-- [**Project**](https://www.jasongt.com/projectpages/IKC.html) \| [![](https://img.shields.io/github/stars/yuanjunchai/IKC?style=social&label=Code+Stars)](https://github.com/yuanjunchai/IKC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We propose new method **Visual Token Transformer for Image Restoration** for image deblurring at NTIRE 2021 Challenge on Image Deblurring, which achieves the top 10 place in the leaderboard.
+- We propose a new method, **Visual Token Transformer for Image Restoration**, for image deblurring in the NTIRE 2021 Challenge on Image Deblurring, which achieves a top-10 place on the leaderboard.
 </div>
 </div> 
 
@@ -146,9 +148,9 @@ CVPR 2021 workshop
 - We propose a new AIGC platform for marketing content generation, named Kreado AI. Kreado AI is a hybrid worldwide AIGC platform that combines the strengths of so many AIGC functions:
   - Virtual Avatar (talking-face generation, speech synthesis, LLM)
   - AI model (text-to-image, LoRA, control net)
-  - Custom clone serivces (image-to-video, voice clone)
+  - Custom clone services (image-to-video, voice clone)
   <!-- - Many AI tools and AI property -->
-- Here I mainly focus on the Virtual Avatar and AI model algorithms improvement, as well as collaborate with system architect for entire architecture improvement. Users radiate to Europe, Africa, Southeast Asia, and the Americas, with quarterly revenue exceeding US$1 million.
+- Here I mainly focused on the Virtual Avatar and AI model algorithms improvement, as well as collaborateed with system architects for entire architecture improvement. Users span to Europe, Africa, Southeast Asia, and the Americas, with quarterly revenue exceeding US$1 million.
 </div>
 </div>
 
@@ -174,27 +176,33 @@ CVPR 2021 workshop
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/eyes02.jpg"><img src='images/eyes02.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Face Control: Fine Facial Control Platform for High-paraplegia Disabled People**](https://www.bilibili.com/video/BV1u34y1d7g3/?p=1&share_medium=iphone&share_plat=ios&share_session_id=FDFAD6F5-CCF8-47D9-B33E-DE9CB343384E&share_source=WEIXIN&share_tag=s_i&timestamp=1639402219&unique_k=OkjAetO)
+[**Face Control: Precise Facial-Control Platform for People with Paraplegia**](https://www.bilibili.com/video/BV1u34y1d7g3/?p=1&share_medium=iphone&share_plat=ios&share_session_id=FDFAD6F5-CCF8-47D9-B33E-DE9CB343384E&share_source=WEIXIN&share_tag=s_i&timestamp=1639402219&unique_k=OkjAetO)
 
 **Yuanjun Chai**, Ingrem.inc
 
-- I co-founded a start-up, Ingrem, with other hardcore guys. We aim to build an entire bed for living and playing for high-paraplegic disabled people. Here, I am responsible for the development of the software – eyes&facial control platform. Based on computer vision algorithms, the system could help the disabled use their facial details (such as eyebrows, eyes, mouth, etc.) to control the mouse and keyboard elaborately. Thus, our platform and our bed entirely enhance the accessibility of normal computer usage and social networks. We do believe tech makes people’s lives better, and we do it!
+- I co-founded a start-up, Ingrem, together with a few other hardcore engineers. Our goal was to build a complete smart bed that supports both daily living and entertainment for people with high-level paraplegia. Within the team, I led the software development — an eye- and facial-control platform. Powered by computer vision algorithms, it lets users drive the mouse and keyboard precisely through subtle facial movements of the eyebrows, eyes, and mouth. Together, the platform and the bed make everyday computer use and social connection far more accessible. We truly believe technology makes people’s lives better — and we are making it happen!
 </div>
 </div>
 
 # 🎖 Honors and Awards
 <!-- - *2021.04* Obtain a fully-funded PhD return offer from Li Ka Shing Faculty of Medicine, University of Hong Kong. -->
-- NeurIPS'25 Best Paper Award
-- Outstanding Undergraduate Student Award. 
+- NeurIPS 2025 Best Paper Award
+- UW ECE Student Professional Development Award.
+- UW Graduate Student Conference Presentation Award.
 - Outstanding Undergraduate Thesis Award (10/5000), Topic: Image Inpainting Based on Deep Learning. 
-- Cambridge Summer AI Academic Programme Excellent Student – Full Fulled Scholarship.
-- Golden Medal of National Computer Design Contest -- Birdsong Recognition with Machine Learning.
+- Gold Medal of National Computer Design Contest -- Birdsong Recognition with Machine Learning.
 
-# 🎓 Educations
-- *2024.09 - now*, Master, University of Washington, Seattle
+# 🧑‍⚖️ Academic Service
+**Conference Reviewer**:
+- **NeurIPS** 2026, **NeurIPS ED** 2026
+- **ACL ARR** May 2026 (**EMNLP** 2026)
+- **CVPR** 2026, **ECCV** 2026
+
+# 🎓 Education
+- *2024.09 - 2026.08*, Master of Science in Electrical and Computing Engineering (MSECE), University of Washington, Seattle
 - *2015.08 - 2019.06*, Undergraduate, Xidian University. 
-- *2018.08 - 2018.09*, Summer Exchange Program, University of Cambridge (with Prof. Pietro Lio). 
-- *2012.08 - 2015.06*, High School Affiliated to Northwestern University
+- *2018.08 - 2018.09*, Summer Exchange Program, University of Cambridge (with Prof. Pietro Lio). Rank 1/53, fully-funded Cambridge Trust Scholarship. 
+<!-- - *2012.08 - 2015.06*, High School Affiliated to Northwestern University -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -207,12 +215,12 @@ CVPR 2021 workshop
 # 🧑‍💻 Professional Experience
 - *2022.07 - 2024.09*, Senior Machine Learning Engineer, VMware AI Lab
 <!-- - *2023 - now*, Machine Learning Engineer, iFlyTek -->
-- *2020.07 - 2022.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
-- *2019.05 - 2020.07*, Research Assistant in CAS, Tsinghua University
+- *2020.07 - 2022.07*, Senior Machine Learning Engineer, YeahMobi -- Alibaba Group.
+- *2019.05 - 2020.07*, Research Assistant at CAS, Tsinghua University
 
 # 🏃‍♂️ Hobbies
-My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I get my first gold medal in Fencing🤺 at the National Province Games🏅.
+My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I won my first gold medal in Fencing🤺 at the National Province Games🏅.
 
-Besides, I have my lovely cat🐱 -- **Luna**: 
+I also have a lovely cat🐱 -- **Luna**: 
 <br />
 <img src='images/cat01.jpg' alt="sym01" width="25%"> <img src='images/cat03.jpg' alt="sym03" width="25%">
