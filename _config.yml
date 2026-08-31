@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanjun Chai (柴源君)"
-description              : "LLM/VLM Researcher and Engineer | MSEE, University of Washington"
+description              : ""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanjun Chai"
   avatar           : "images/HR2.jpg"
-  bio              : "UW Seattle"
+  bio              : "LLM/VLM Researcher and Engineer | MSECE, University of Washington"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
