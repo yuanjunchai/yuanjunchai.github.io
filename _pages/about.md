@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I just received my MSECE from the University of Washington Seattle<img src='./images/UWlogo.png' style='width: 2.0em;'> in August 2026 (Go Huskies!). 
+Hi! This is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I just received my M.S. in Electrical and Computer Engineering (MSECE) from the University of Washington, Seattle <img src='./images/UWlogo.png' style='width: 2.0em;'> in August 2026 (Go Huskies!). 
 
 <!-- Hi! Here is Yuanjun Chai 柴源君 (sounds like Y-wen Joon, Ch-eye), aka Allen. I work at [iFlyTek AI Lab](https://xinghuo.xfyun.cn/sparkapi) <img src='./images/iFlyTek_logo.jpeg' style='width: 3.8em;'>, working on LLM and Multi-LLM. -->
 <!-- <br /> -->
 <span style="line-height:1.5;">
 
-I graduated with highest honors from Xidian University, earning a bachelor's degree. My thesis on image inpainting received invaluable support from [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) from SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. Also, I am so lucky to have the privilege of collaborating with [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) from CAS <img src='./images/cas.jpeg' style='width: 1.6em;'> working on image&video super-resolution,[Yue Gao](https://www.gaoyue.org/)  from Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'> working on event-camera.<br /> 
+I received my bachelor's degree in Electrical and Computer Engineering from Xidian University with highest honors. My undergraduate thesis on image inpainting was guided by [Chao Dong](https://scholar.google.com/citations?user=OSDCB0UAAAAJ&hl=en&oi=ao) at SIAT-CAS <img src='./images/siat.jpeg' style='width: 1.6em;'>. I was also fortunate to continue working with him and [Yu Qiao](https://scholar.google.com/citations?hl=en&user=gFtI-8QAAAAJ) (CAS <img src='./images/cas.jpeg' style='width: 1.6em;'>) on image and video super-resolution, and with [Yue Gao](https://www.gaoyue.org/) (Tsinghua University <img src='./images/tsinghua.png' style='width: 1.6em;'>) on event cameras.<br /> 
  <!-- [Jason Cheung](https://www.ortho.hku.hk/biography/cheung-pui-yin-jason/) from HKU <img src='./images/hku.png' style='width: 1.6em;'> working on AI healthcare,  -->
 
 <!-- and [Eric Yi](https://scholar.google.com/citations?user=UyZL660AAAAJ&hl=en) -->
@@ -44,9 +44,9 @@ Previously, I worked as a machine learning engineer for 5 years at IT companies,
 <!-- - **Spatial Intelligence**: Vision-Language Action Model (VLA) -->
 
 <!-- By the way, with strong research and industry experience, I decide to **seek for a PhD position**.  -->
-Beyond research, I also want to turn new technologies into products that make people's lives better. Thus, I co-founded a start-up, [INGREM Inc.](https://gazerecorder.com/gazepointer/), to help high-paraplegia disabled people use a computer with a precise eye-control platform.
+Beyond research, I also want to turn new technologies into products that make people's lives better. Thus, I co-founded a start-up, [INGREM Inc.](https://gazerecorder.com/gazepointer/), which builds a precise eye-control platform that helps people with high-level paraplegia use computers.
 
-I am currently **seeking full-time roles in AI research and engineering (Industry/Academia)**, available from September 2026. Feel free to reach out!
+I am currently **seeking full-time roles in AI research and engineering (Industry/Academia)**, available immediately. Feel free to reach out!
 
 <!-- By the way, I am open to collaborate with other researchers. Although pursuing academics is a tough journey, but we could overcome it together. Now I am holding multiple GPUs. If you are interested in my research, please directly contact me: [yuanjunchai89@gmail.com](mailto:yuanjunchai89@gmail.com). -->
 
@@ -56,20 +56,20 @@ I am currently **seeking full-time roles in AI research and engineering (Industr
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
-- *2026.09*: Just received my MSECE from UW Seattle. Open to new opportunities!
+- *2026.08*: Just received my MSECE from UW Seattle. Open to new opportunities!
 - *2026.06*: Just wrapped up my internship with the TikTok TnS team!
-- *2026.01*: &nbsp;🥰🥰 Excited to start the internship with the TikTok TnS team!
+- *2026.01*: &nbsp;🥰🥰 Excited to start my internship with the TikTok Trust & Safety (TnS) team!
 - *2025.11*: &nbsp;🔥🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Language Model Homogeneity, received the **NeurIPS Best Paper Award**! See you in San Diego! 
-- *2025.10*: &nbsp;🎉🎉 Received UW Graduate Student Conference Presentation Award and UW ECE Student Professional Development Award, to support attending ICCV at Hawaii.
-- *2025.09*: &nbsp;🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) about Large Language Model Homogeneity pattern, has been accepted by **NeurIPS Oral (DB Track)**! See you in San Diego! 
-- *2025.06*: &nbsp;🔥🔥 Our paper [DiffPure-VLM](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding, has been accepted by **ICCV25**! See you in Hawaii! 🏖️
-- *2024.09*: &nbsp;🥰🥰 Go to University of Washington! I am so excited to start my new research journey in UW!
-- *2022.07*: &nbsp;🎉🎉 Thrilled to join VMware as ans MLE! We do some interesting projects on our own LLM platform like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+).
+- *2025.10*: &nbsp;🎉🎉 Received UW Graduate Student Conference Presentation Award and UW ECE Student Professional Development Award, to support attending ICCV in Hawaii.
+- *2025.09*: &nbsp;🔥🔥 Our paper [Artificial Hivemind](https://github.com/liweijiang/artificial-hivemind) on the homogeneity of large language models was accepted as an **Oral** at **NeurIPS 2025** (Datasets & Benchmarks Track)! See you in San Diego! 
+- *2025.06*: &nbsp;🔥🔥 Our paper [DiffPure-VLM](https://arxiv.org/abs/2504.01308) about Vision-Language Model Safeguarding, has been accepted to **ICCV 2025**! See you in Hawaii! 🏖️
+- *2024.09*: &nbsp;🥰🥰 Started my M.S. at the University of Washington! So excited to begin a new research journey at UW!
+- *2022.07*: &nbsp;🎉🎉 Thrilled to join VMware AI Lab as an MLE! We built a private RAG-based LLM platform on top of [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+), in collaboration with H2O.ai.
 <!-- - *2022.06*: &nbsp;🔥🔥 Our AIGC platform [Kreado AI](https://kreadoai.com/) has released to all over the world！ -->
 <!-- - *2021.04*: &nbsp;👏👏 Glad to obtain fully-funded PhD offer from University of HongKong (HKU)! -->
 - *2021.03*: &nbsp;👏👏 Rank 10 / 60 in [NTIRE 2021 Challenge on Image Deblurring](https://competitions.codalab.org/competitions/28073) in **CVPR 2021** and our method **Visual Token Transformer for Image Restoration** was selected for presentation in the [summary paper](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf).
-- *2021.01*: &nbsp;🥰🥰 Our eyes control platform has helped more than 300 people with paraplegia!
-- *2020.08*: &nbsp;🎉🎉 Our [IKC](https://github.com/yuanjunchai/IKC) -- CVPR project about real-world super-resolution has received more than ⭐️200+.
+- *2021.01*: &nbsp;🥰🥰 Our eye-control platform has helped more than 300 people with paraplegia!
+- *2020.08*: &nbsp;🎉🎉 At the request of the IKC authors, I reproduced the code of [IKC](https://github.com/yuanjunchai/IKC) (CVPR 2019, blind super-resolution) and open-sourced it, which has received ⭐️200+.
 
 # 📝 Research 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><a href="images/LLM_diversity_part.png"><img src='images/LLM_diversity_part.png' alt="sym" width="100%"></a></div></div>
@@ -96,8 +96,8 @@ Jiawei Wang\*, Yushen Zuo\*, **Yuanjun Chai**, Zhendong Liu, Yicheng Fu, Yichun 
 
 ICCV 2025
 
-[**Project**](https://github.com/JarvisUSTC/DiffPureRobustVLM) \| [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisUSTC/DiffPure-RobustVLM)
-](https://github.com/JarvisUSTC/DiffPureRobustVLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/JarvisUSTC/DiffPure-RobustVLM) \| [![GitHub Repo stars](https://img.shields.io/github/stars/JarvisUSTC/DiffPure-RobustVLM)
+](https://github.com/JarvisUSTC/DiffPure-RobustVLM)
 
 <!-- - We propose the **Robust-VLGuard dataset** and **DiffPure-VLM** defense framework to address the problem that visual language models (VLMs) are vulnerable to Gaussian noise and adversarial perturbation attacks. Through fine-tuning with Gaussian noise enhancement, the attack success rate of VLMs on datasets such as CIFAR-10 and ImageNet is significantly reduced (for example, the attack success rate of MiniGPT-4 in the RealToxicityPrompts benchmark test dropped from 44.1% to 16.5%). Combined with the distribution conversion capability of the diffusion model DiffPure, adversarial noise is converted into Gaussian noise, further improving the defense effect, especially under strong attacks (for example, the attack success rate of InternVL2 dropped from 57.3% to 36.1% when ϵ=64/255). -->
 <!-- - We notice Vision-Language Models (VLMs) are surprisingly vulnerable to "jailbreak attacks," especially when faced with noisy images or simple Gaussian noise perturbations. To address it, we propose Robust-VLGuard (a new multimodal safety dataset) and DiffPure-VLM (a novel defense framework). -->
@@ -121,14 +121,14 @@ Jinjin Gu, Hannan Lu, Wangmeng Zuo, Chao Dong
 <!-- - We introduce the Iterative Kernel Correction (IKC) method, which identifies and rectifies blur kernel inaccuracies to achieve superior results in blind super-resolution, further enhanced by our SFTMD network for diverse blur kernels. -->
 <!-- - We propose an Iterative Kernel Correction (IKC) method for blur kernel estimation in blind SR problem, where the blur kernels are unknown. We draw the observation that kernel mismatch could bring regular artifacts (either over-sharpening or over-smoothing), which can be applied to correct inaccurate blur kernels. Thus we introduce an iterative correction scheme – IKC that achieves better results than direct kernel estimation. We further propose an effective SR network architecture using spatial feature transform (SFT) layers to handle multiple blur kernels, named SFTMD. -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRw</div><a href="images/cvprw.png"><img src='images/cvprw.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW</div><a href="images/cvprw.png"><img src='images/cvprw.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**NTIRE 2021 Challenge on Image Deblurring**](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf)
 
 Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Yushen Zuo, **Yuanjun Chai** et al.
 
-CVPR 2021 workshop
+CVPR 2021 Workshops (NTIRE)
 <!-- [**Project**](https://www.jasongt.com/projectpages/IKC.html) \| [![](https://img.shields.io/github/stars/yuanjunchai/IKC?style=social&label=Code+Stars)](https://github.com/yuanjunchai/IKC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We propose a new method, **Visual Token Transformer for Image Restoration**, for image deblurring in the NTIRE 2021 Challenge on Image Deblurring, which achieves a top-10 place on the leaderboard.
 </div>
@@ -143,14 +143,14 @@ CVPR 2021 workshop
 
 [**Kreado AI: AIGC Platform for Marketing Content Generation**](https://kreadoai.com/)
 
-**Yuanjun Chai** and YeahMobi.inc
+**Yuanjun Chai**, YeahMobi
 
-- We propose a new AIGC platform for marketing content generation, named Kreado AI. Kreado AI is a hybrid worldwide AIGC platform that combines the strengths of so many AIGC functions:
-  - Virtual Avatar (talking-face generation, speech synthesis, LLM)
-  - AI model (text-to-image, LoRA, control net)
-  - Custom clone services (image-to-video, voice clone)
+- We built Kreado AI, a global AIGC platform for marketing content generation that integrates a wide range of generative capabilities:
+  - Virtual avatars (talking-face generation, speech synthesis, LLM)
+  - AI models (text-to-image, LoRA, ControlNet)
+  - Custom cloning services (image-to-video, voice cloning)
   <!-- - Many AI tools and AI property -->
-- Here I mainly focused on the Virtual Avatar and AI model algorithms improvement, as well as collaborateed with system architects for entire architecture improvement. Users span to Europe, Africa, Southeast Asia, and the Americas, with quarterly revenue exceeding US$1 million.
+- I focused on improving the virtual-avatar and AI-model algorithms, and worked with system architects to improve the overall architecture. Kreado AI serves users across Europe, Africa, Southeast Asia, and the Americas, with quarterly revenue exceeding US$1 million.
 </div>
 </div>
 
@@ -158,16 +158,16 @@ CVPR 2021 workshop
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/h2oGPT.png"><img src='images/h2oGPT.png' alt="sym" width="120%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**h2o GPT: AIGC Platform for Marketing Content Generation**](https://tanzu.vmware.com/content/blog/vmware-greenplum-excels-as-genai-llm-data-platform)
+[**Private RAG-based LLM Platform on VMware (built on h2oGPT)**](https://tanzu.vmware.com/content/blog/vmware-greenplum-excels-as-genai-llm-data-platform)
 
-**Yuanjun Chai**
+**Yuanjun Chai**, VMware AI Lab, in collaboration with H2O.ai
 
-[**Project**](https://gpt.h2o.ai/) \| [![](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social&label=Code+Stars)](https://github.com/h2oai/h2ogpt) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We develop a new RAG-based LLM platform for AI cloud native and private AI. The platform could leverage diverse LLMs with extended dataset such as pdf, code base, dataset and internet links. Here I am responsible for all RAG-based LLM algorithm development, as well as industrial deployment. Functionality includes: 
-  - text QA and chat with RAG
-  - multi-modal QA and chat
-  - AI agent
-  - Multi-modal LLM for AI cloud native.
+[**Project**](https://gpt.h2o.ai/) \| [![](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social&label=Code+Stars)](https://github.com/h2oai/h2ogpt)
+- Built on h2oGPT, we developed a RAG-based LLM platform for cloud-native and private AI. It supports diverse LLMs and data sources such as PDFs, codebases, datasets, and web links. I was responsible for all RAG algorithm development and production deployment. Features include:
+  - Text QA and chat with RAG
+  - Multi-modal QA and chat
+  - AI agents
+  - Multi-modal LLMs for cloud-native AI
 </div>
 </div>
 
@@ -187,10 +187,10 @@ CVPR 2021 workshop
 # 🎖 Honors and Awards
 <!-- - *2021.04* Obtain a fully-funded PhD return offer from Li Ka Shing Faculty of Medicine, University of Hong Kong. -->
 - NeurIPS 2025 Best Paper Award
-- UW ECE Student Professional Development Award.
-- UW Graduate Student Conference Presentation Award.
-- Outstanding Undergraduate Thesis Award (10/5000), Topic: Image Inpainting Based on Deep Learning. 
-- Gold Medal of National Computer Design Contest -- Birdsong Recognition with Machine Learning.
+- UW ECE Student Professional Development Award
+- UW Graduate Student Conference Presentation Award
+- Outstanding Undergraduate Thesis Award (top 10 of 5,000), Topic: Image Inpainting Based on Deep Learning
+- Gold Medal, National Computer Design Contest (Birdsong Recognition with Machine Learning)
 
 # 🧑‍⚖️ Academic Service
 **Conference Reviewer**:
@@ -198,10 +198,13 @@ CVPR 2021 workshop
 - **ACL ARR** May 2026 (**EMNLP** 2026)
 - **CVPR** 2026, **ECCV** 2026
 
+**Journal Reviewer**:
+- **Pattern Recognition**
+
 # 🎓 Education
-- *2024.09 - 2026.08*, Master of Science in Electrical and Computing Engineering (MSECE), University of Washington, Seattle
-- *2015.08 - 2019.06*, Undergraduate, Xidian University. 
-- *2018.08 - 2018.09*, Summer Exchange Program, University of Cambridge (with Prof. Pietro Lio). Rank 1/53, fully-funded Cambridge Trust Scholarship. 
+- *2024.09 - 2026.08*, Master of Science in Electrical and Computer Engineering (MSECE), University of Washington, Seattle
+- *2015.08 - 2019.06*, Bachelor's degree in Electrical and Computer Engineering, Xidian University
+- *2018.08 - 2018.09*, Summer Exchange Program, University of Cambridge (with Prof. Pietro Liò). Rank 1/53, fully-funded Cambridge Trust Scholarship
 <!-- - *2012.08 - 2015.06*, High School Affiliated to Northwestern University -->
 
 <!-- # 💬 Invited Talks
@@ -213,13 +216,14 @@ CVPR 2021 workshop
 - *2022.07 - 2023.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
 - *2019.05 - 2022.07*, Research Assistant in Chinese Academy of Sciences, Tsinghua University and HKU (get return PhD offer). -->
 # 🧑‍💻 Professional Experience
+- *2026.01 - 2026.06*, Machine Learning Engineer Intern, TikTok Trust & Safety
 - *2022.07 - 2024.09*, Senior Machine Learning Engineer, VMware AI Lab
 <!-- - *2023 - now*, Machine Learning Engineer, iFlyTek -->
-- *2020.07 - 2022.07*, Senior Machine Learning Engineer, YeahMobi -- Alibaba Group.
+- *2020.07 - 2022.07*, Senior Machine Learning Engineer, YeahMobi (Alibaba Group affiliate)
 - *2019.05 - 2020.07*, Research Assistant at CAS, Tsinghua University
 
 # 🏃‍♂️ Hobbies
-My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In the high school, I won my first gold medal in Fencing🤺 at the National Province Games🏅.
+My hobbies include Fencing🤺, Basketball🏀, Swimming🏊, Guitar🎸 and Motorcycle🏍️. In high school, I won my first gold medal in Fencing🤺 at a national-level fencing competition in Shaanxi Province🏅.
 
 I also have a lovely cat🐱 -- **Luna**: 
 <br />
