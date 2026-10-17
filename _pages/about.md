@@ -199,7 +199,40 @@ CVPR 2021 Workshops (NTIRE)
 - **CVPR** 2026, **ECCV** 2026
 
 **Journal Reviewer**:
+- **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**
+- **IEEE Transactions on Multimedia (TMM)**
 - **Pattern Recognition**
+
+# 🤝 Mentorship
+<style>
+.mentor-list { margin: 0.4em 0 1.4em; }
+.mentor-row { display: flex; gap: 1.2em; padding: 0.25em 0; }
+.mentor-year { flex: 0 0 8.5em; font-weight: bold; color: #1f4e8c; }
+.mentor-name { font-weight: bold; }
+.mentor-sep { color: #aaa; margin: 0 0.35em; }
+.mentor-aff { color: #1f4e8c; }
+@media (max-width: 600px) {
+  .mentor-row { flex-direction: column; gap: 0; padding: 0.4em 0; }
+}
+</style>
+
+**Mentors**
+
+<div class="mentor-list">
+<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><a class="mentor-name" href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a><span class="mentor-sep">·</span><span class="mentor-aff">University of Washington</span></span></div>
+<div class="mentor-row"><span class="mentor-year">2026</span><span><span class="mentor-name">Dr. Jiaxing Zhang</span><span class="mentor-sep">·</span><span class="mentor-aff">TikTok</span></span></div>
+<div class="mentor-row"><span class="mentor-year">2024-2026</span><span><a class="mentor-name" href="https://www.aa.washington.edu/facultyfinder/martin-nisser">Prof. Martin Nisser</a><span class="mentor-sep">·</span><span class="mentor-aff">University of Washington</span></span></div>
+<div class="mentor-row"><span class="mentor-year">2024-2026</span><span><a class="mentor-name" href="https://liweijiang.me/">Dr. Liwei Jiang</a><span class="mentor-sep">·</span><span class="mentor-aff">UW Paul G. Allen School</span></span></div>
+</div>
+
+**Mentees**
+
+<div class="mentor-list">
+<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><span class="mentor-name">Caesar</span><span class="mentor-sep">·</span><span class="mentor-aff">Undergraduate at University of Washington</span></span></div>
+<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><a class="mentor-name" href="https://www.linkedin.com/in/ziang-tan/">Ziang Tan</a><span class="mentor-sep">·</span><span class="mentor-aff">Undergraduate at University of Washington</span></span></div>
+<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><a class="mentor-name" href="https://www.linkedin.com/in/celine-hsu-438489319/">Celine Hsu</a><span class="mentor-sep">·</span><span class="mentor-aff">Undergraduate at University of Washington</span></span></div>
+<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><a class="mentor-name" href="https://www.linkedin.com/in/saesha-wadhwa-38439127a/">Saesha Wadhwa</a><span class="mentor-sep">·</span><span class="mentor-aff">Undergraduate at University of Washington</span></span></div>
+</div>
 
 # 🎓 Education
 - *2024.09 - 2026.08*, Master of Science in Electrical and Computer Engineering (MSECE), University of Washington, Seattle
@@ -216,7 +249,9 @@ CVPR 2021 Workshops (NTIRE)
 - *2022.07 - 2023.07*, Senior Machine Learning Scientist, YeahMobi -- Alibaba Group.
 - *2019.05 - 2022.07*, Research Assistant in Chinese Academy of Sciences, Tsinghua University and HKU (get return PhD offer). -->
 # 🧑‍💻 Professional Experience
+- *2026.06 - now*, Researcher, University of Washington (advisor: Prof. Jenq-Neng Hwang)
 - *2026.01 - 2026.06*, Machine Learning Engineer Intern, TikTok Trust & Safety
+- *2024.10 - 2026.01*, Research Assistant, UW Paul G. Allen School of Computer Science & Engineering
 - *2022.07 - 2024.09*, Senior Machine Learning Engineer, VMware AI Lab
 <!-- - *2023 - now*, Machine Learning Engineer, iFlyTek -->
 - *2020.07 - 2022.07*, Senior Machine Learning Engineer, YeahMobi (Alibaba Group affiliate)
