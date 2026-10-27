@@ -206,7 +206,7 @@ CVPR 2021 Workshops (NTIRE)
 # 🤝 Mentorship
 **Mentors**: I am grateful to have been mentored by
 - [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/) (University of Washington): embodied AI on a quadruped robot, 2026.06 - present
-- [Prof. Martin Nisser](https://www.aa.washington.edu/facultyfinder/martin-nisser) ((University of Washington)): Text-to-3D and ViT for 3D fabrication. 2024.12-2026.01
+- [Prof. Martin Nisser](https://www.aa.washington.edu/facultyfinder/martin-nisser) (University of Washington): Text-to-3D and ViT for 3D fabrication. 2024.12-2026.01
 - [Dr. Jiaxing Zhang](https://tabzhangjx.github.io/) (TikTok): VLM and LLM post-training, modular MoE, 2026.01 - 2026.06
 - [Dr. Liwei Jiang](https://liweijiang.me/) (UW Paul G. Allen School): LLM pluralistic benchmarking and alignment, 2024.10 - 2026.01
 
