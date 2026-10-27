@@ -194,7 +194,7 @@ CVPR 2021 Workshops (NTIRE)
 
 # 🧑‍⚖️ Academic Service
 **Conference Reviewer**:
-- **NeurIPS** 2026, **NeurIPS ED** 2026
+- **NeurIPS** 2026, **NeurIPS ED** 2026, **ICLR** 2027
 - **ACL ARR** May 2026 (**EMNLP** 2026)
 - **CVPR** 2026, **ECCV** 2026
 
@@ -204,35 +204,17 @@ CVPR 2021 Workshops (NTIRE)
 - **Pattern Recognition**
 
 # 🤝 Mentorship
-<style>
-.mentor-list { margin: 0.4em 0 1.4em; }
-.mentor-row { display: flex; gap: 1.2em; padding: 0.25em 0; }
-.mentor-year { flex: 0 0 8.5em; font-weight: bold; color: #1f4e8c; }
-.mentor-name { font-weight: bold; }
-.mentor-sep { color: #aaa; margin: 0 0.35em; }
-.mentor-aff { color: #1f4e8c; }
-@media (max-width: 600px) {
-  .mentor-row { flex-direction: column; gap: 0; padding: 0.4em 0; }
-}
-</style>
+**Mentors**: I am grateful to have been mentored by
+- [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/) (University of Washington): embodied AI on a quadruped robot, 2026.06 - present
+- [Prof. Martin Nisser](https://www.aa.washington.edu/facultyfinder/martin-nisser) ((University of Washington)): Text-to-3D and ViT for 3D fabrication. 2024.12-2026.01
+- [Dr. Jiaxing Zhang](https://tabzhangjx.github.io/) (TikTok): VLM and LLM post-training, modular MoE, 2026.01 - 2026.06
+- [Dr. Liwei Jiang](https://liweijiang.me/) (UW Paul G. Allen School): LLM pluralistic benchmarking and alignment, 2024.10 - 2026.01
 
-**Mentors**
-
-<div class="mentor-list">
-<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><a class="mentor-name" href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a><span class="mentor-sep">·</span><span class="mentor-aff">University of Washington</span></span></div>
-<div class="mentor-row"><span class="mentor-year">2026</span><span><span class="mentor-name">Dr. Jiaxing Zhang</span><span class="mentor-sep">·</span><span class="mentor-aff">TikTok</span></span></div>
-<div class="mentor-row"><span class="mentor-year">2024-2026</span><span><a class="mentor-name" href="https://www.aa.washington.edu/facultyfinder/martin-nisser">Prof. Martin Nisser</a><span class="mentor-sep">·</span><span class="mentor-aff">University of Washington</span></span></div>
-<div class="mentor-row"><span class="mentor-year">2024-2026</span><span><a class="mentor-name" href="https://liweijiang.me/">Dr. Liwei Jiang</a><span class="mentor-sep">·</span><span class="mentor-aff">UW Paul G. Allen School</span></span></div>
-</div>
-
-**Mentees**
-
-<div class="mentor-list">
-<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><span class="mentor-name">Caesar</span><span class="mentor-sep">·</span><span class="mentor-aff">Undergraduate at University of Washington</span></span></div>
-<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><a class="mentor-name" href="https://www.linkedin.com/in/ziang-tan/">Ziang Tan</a><span class="mentor-sep">·</span><span class="mentor-aff">Undergraduate at University of Washington</span></span></div>
-<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><a class="mentor-name" href="https://www.linkedin.com/in/celine-hsu-438489319/">Celine Hsu</a><span class="mentor-sep">·</span><span class="mentor-aff">Undergraduate at University of Washington</span></span></div>
-<div class="mentor-row"><span class="mentor-year">2026-Present</span><span><a class="mentor-name" href="https://www.linkedin.com/in/saesha-wadhwa-38439127a/">Saesha Wadhwa</a><span class="mentor-sep">·</span><span class="mentor-aff">Undergraduate at University of Washington</span></span></div>
-</div>
+**Mentees**: Undergraduate researchers I mentor at UW (2026, embodied AI on a quadruped robot)
+- [Caesar](https://www.linkedin.com/in/yin-liang-chen-697870352/): scene-graph-based memory module
+- [Ziang Tan](https://www.linkedin.com/in/ziang-tan/): gait analysis
+- [Celine Hsu](https://www.linkedin.com/in/celine-hsu-438489319/): integrating follow-up and gait analysis
+- [Saesha](https://www.linkedin.com/in/saesha-wadhwa-38439127a/): world models (from JEPA to LeWorldModel)
 
 # 🎓 Education
 - *2024.09 - 2026.08*, Master of Science in Electrical and Computer Engineering (MSECE), University of Washington, Seattle
