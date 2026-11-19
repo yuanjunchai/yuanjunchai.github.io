@@ -56,6 +56,7 @@ I am currently **seeking full-time roles in AI research and engineering (Industr
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
+- *2026.11* Give a talk about agentic robot at [NVIDIA Robotics Day at UW](https://events.nvidia.com/nvtechdaysuw/agenda?i=Q63bnBzkUk1j42v3-IvdG8OGBj1JzsuY).
 - *2026.08*: Just received my MSECE from UW Seattle. Open to new opportunities!
 - *2026.06*: Just wrapped up my internship with the TikTok TnS team!
 - *2026.01*: &nbsp;🥰🥰 Excited to start my internship with the TikTok Trust & Safety (TnS) team!
@@ -204,7 +205,7 @@ CVPR 2021 Workshops (NTIRE)
 - **Pattern Recognition**
 
 # 🤝 Mentorship
-**Mentors**: I am grateful to have been mentored by
+**Mentors**: I am grateful to have been mentored byhttps://www.bing.com/ck/a?!&&p=4916090e97b6ab2fa988c849cb03a893cc03d7fa79fa093807d7d95440688a02JmltdHM9MTc5MzA1OTIwMA&ptn=3&ver=2&hsh=4&fclid=05d58bae-ea96-68d1-3fe1-9de1eb2c698a&u=a1aHR0cHM6Ly93d3cuZWNlLnV3LmVkdS9hY2FkZW1pY3MvcG1wLw&ntb=1
 - [Prof. Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/) (University of Washington): embodied AI on a quadruped robot, 2026.06 - present
 - [Prof. Martin Nisser](https://www.aa.washington.edu/facultyfinder/martin-nisser) (University of Washington): Text-to-3D and ViT for 3D fabrication. 2024.12-2026.01
 - [Dr. Jiaxing Zhang](https://tabzhangjx.github.io/) (TikTok): VLM and LLM post-training, modular MoE, 2026.01 - 2026.06
