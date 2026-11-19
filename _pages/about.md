@@ -56,7 +56,7 @@ I am currently **seeking full-time roles in AI research and engineering (Industr
 
 # 🔥 News
 <!-- - *2023.02*: &nbsp;🎉🎉 Thrilled to join iFlyTek AI Lab as MLE! We do some interesting projects on RAG-based LLM like [h2oGPT](https://github.com/h2oai/h2ogpt) (⭐️8k+). -->
-- *2026.11* Give a talk about agentic robot at [NVIDIA Robotics Day at UW](https://events.nvidia.com/nvtechdaysuw/agenda?i=Q63bnBzkUk1j42v3-IvdG8OGBj1JzsuY).
+- *2026.11*: Give a talk about agentic robot at [NVIDIA Robotics Day at UW](https://events.nvidia.com/nvtechdaysuw/agenda?i=Q63bnBzkUk1j42v3-IvdG8OGBj1JzsuY).
 - *2026.08*: Just received my MSECE from UW Seattle. Open to new opportunities!
 - *2026.06*: Just wrapped up my internship with the TikTok TnS team!
 - *2026.01*: &nbsp;🥰🥰 Excited to start my internship with the TikTok Trust & Safety (TnS) team!
